@@ -61,7 +61,9 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Media Queries -->  
     <link rel="stylesheet" href="css/media.css">
- 
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
+
     <!-- ========= 
     JS
     ========= -->
@@ -156,8 +158,7 @@
                                     <div id="countdown_dashboard">
                                         <div class="dash days_dash">
                                             <span class="dash-title">dní</span>
-                                            <div class="digit digit-daymargin">0</div>
-                                            <div class="digit">0</div>
+                                            <div class="digit digit-margin">0</div>
                                             <div class="digit">0</div>
                                         </div>
                             
@@ -193,20 +194,66 @@
         <section id="about" class="section-container">
             <div class="container">
                
-                <div class="sixteen columns">                    
+                <div class="eight columns">
+                    <h5>Misia</h5>              
                     <p>SNG uchováva a vystavuje výtvarné umenie nielen v jeho materiálnej, ale aj digitálnej podobe. Naše digitálne zbierky postupne otvárame verejnosti a chceme vytvoriť priestor pre ľudí, ktorí ich budú tvorivo využívať, alebo nám pomôžu pri vývoji digitálnych služieb. </p>
-                    <p>Hackathon SNG je prvým z podujatí, kde sa stretnú programátori, grafickí dizajnéri, zvukoví majstri a ďalší kreatívci, aby počas dvoch dní navrhli a vytvorili projekt s využitím našich dát.</p> 
-                    <p>Ak vás láka možnosť vytvoriť audiosprievodcu k nestálej expozícii gotického a barokového umenia, získať dáta z Webu umenia a vylepšiť ho alebo digitálne analyzovať farebnú paletu maliara Bazovského, zapojte sa! K dispozícii budú zdrojové kódy, digitálne reprodukcie, metadáta o výtvarných dielach, veľa kávy a sprievodný program, ktorý vás bude inšpirovať pri realizácii nami navrhovaných alebo vašich vlastných projekov.</p> <p>Odporúčaná je účasť v tímoch, najlepšie projekty budú na záver vyhodnotené porotou a "ovenčené" zaujímavými cenami.</p> 
-                    <p>Viac informácií čoskoro.</p>
-
-                    <p style="margin: 20px 0 "><a href="http://www.hackathon.io/hackathon-sng" target="_blank" class="button" style="margin:0 auto;" >REGISTRÁCIA</a></p>
-
-                    <div class="shareon-container text-right">
-                        <div class="fb-like" data-href="http://hackathon.sng.sk/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-                        &nbsp;
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                    </div>
+                    <p>Hackathon SNG je prvým z podujatí, kde sa stretnú programátori, grafickí dizajnéri, zvukoví majstri a ďalší kreatívci, aby počas dvoch dní navrhli a vytvorili projekt s využitím našich dát.</p>
+                    <p>Odporúčaná je účasť v tímoch, najlepšie projekty budú na záver vyhodnotené porotou a "ovenčené" zaujímavými cenami.</p>
                 </div>
+
+                <div class="eight columns">
+                    <h5>Témy a projekty</h5>
+                    <p>Konkrétne projekty sú na vás. My ako SNG poskytneme dáta, podklady a nápady + zdrojové kódy nami realizovaných aplikácií. Navrhované okruhy:</p>                        
+
+                    <div class="topic-container">
+                            <div class="topic-icon">
+                                <i class="icon-mobile"></i>
+                            </div>
+                            
+                                <span class="topic-title">Nestex aplikácia</span>
+                                <p>Nestála expozícia SNG svojou atypickou inštaláciou prezentuje umenie gotiky a baroka v novom svetle a kontexte. 
+                                Nápadité spracovanie témy prostredníctvom nových technológií (napr. mobilnej aplikácie) je pre nás ďaľšou výzvou v snahe popularizovať staré umenie.</p>
+                                <p><strong>Podklady:</strong> </p>
+                                <ul class="list-square">
+                                    <li>voľne dostupné <u>dáta o dielach na Nestex-e</u> a ich <u>digitálne reprodukcie</u></li>
+                                    <li><u>pdf verzia katalógu</u> a <u>sprievodca výstavou</u></li>
+                                    <li><u>zdrojový kód k aplikácii Soundwalk</u></li>
+                                </ul>
+                            
+                        </div>
+                        
+                        <div class="topic-container">
+                            <div class="topic-icon">
+                                <i class="icon-globe"></i>
+                            </div>
+                            <span class="topic-title">Web umenia</span>
+                            <p>
+                            Jedným z cielov webumenia.sk je prehľadne a zároveň pútavo zobrazovať veľké množstvo obrázkov a dát zo zbierok slovenských verejných galérií. 
+                            Práve prebiehajúci redizajn nám umožňuje implementovať nápady na nové funkcie a nástroje (napr. vizualizácia metadát) ešte v zárodku. </p>
+                            <p><strong>Podklady:</strong> </p>
+                            <ul class="list-square">
+                                    <li>metadáta o všetkých dielach SNG</li>
+                                    <li>reprodukcie voľne prístupných diel SNG</li>
+                                    <li>kolekcia Food and drink (diela  vyobrazujúce jedlo)</li>
+                                    <li><u>zdrojový kód nového webumenia.sk</u></li>
+                            </ul>
+                            <!-- Práve prebieha redizajn webumenia.sk od nuly. Práve v tejto fáze je najlepší čas pridať funkcie a nástroje - o ktorých si myslíte, že by sa mohli hodiť. -->
+                        </div>
+                        
+                        <div class="topic-container">
+                            <div class="topic-icon">
+                                <i class="icon-picture"></i>
+                            </div>
+                            <span class="topic-title">Spracovanie obrazu</span>
+                            <p>Vizuálnejšie zameraní účastníci môžu experimentovať s vlastnosťami konkrétnych umeleckých diel, skúmať vzťahy vo farebnosti a výtvarných štýloch autorov (Fulla, Galanda, Bazovský)</p>
+                            <p><strong>Podklady:</strong> </p>
+                            <ul class="list-square">
+                                    <li>voľne prístupné diela SNG vo vysokom rozlíšení</li>
+                                    <li>náhľady zdigitalizovaných diel slovensých zbierkotvorných galérií</li>
+                            </ul>
+                            <!-- <p>Pre tých, ktorý chcú viac pracovať s obrazom samotným je tu tento okruh. Či už ide o spracovanie obrazu (napr. zautomatizované hľadanie podobností). Alebo naopak vytvorenie "instagramu" pre aplikáciu rôznych výtvarných štýlov výrazných autorov (Fulla, Galanda, Bazovský). </p> -->
+                        </div>
+                    </div>
 
                 <div class="clear"></div>
 
