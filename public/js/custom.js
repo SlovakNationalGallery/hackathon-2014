@@ -8,8 +8,6 @@
 /* -- 01. Zebra Accordion -- */
 	$(document).ready(function() {
 		
-		new $.Zebra_Accordion('#Zebra_Accordion1');
-
     $('nav').slideDown();
 
     $('#onepagenav').onePageNav({
@@ -18,7 +16,11 @@
         scrollOffset: 59,
     });
 
-    $.stellar();
+    $('.toggle-project-details').on( "click", function(event) {
+      $(this).html('&larr; zobraziť menej');
+      $('.project-details').toggle();
+      event.preventDefault()
+    });
 	
 	});
 
@@ -54,3 +56,5 @@
 	 });
 	 
 	 
+/* -- 03. TOGGLE READ MORE -- */
+

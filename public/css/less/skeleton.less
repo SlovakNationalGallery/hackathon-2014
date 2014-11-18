@@ -21,7 +21,7 @@
 /* #Base 960 Grid
 ================================================== */
 
-	.container-border                           { position: relative; width: 980px; margin: 0 auto; padding: 0;background-color:#FFF; -moz-box-shadow:0px 0px 1px #ccc;-webkit-box-shadow:0px 0px 1px #ccc;box-shadow: 0px 0px 1px #ccc;}
+    .container-border                           { position: relative; width: 980px; margin: 0 auto; padding: 0;background-color:#FFF; -moz-box-shadow:0px 0px 1px #ccc;-webkit-box-shadow:0px 0px 1px #ccc;box-shadow: 0px 0px 1px #ccc;}
     .container                                  { position: relative; width: 980px; margin: 0 auto; padding: 0;  }
     .container .column,
     .container .columns                         { float: left; display: inline; margin-left: 20px; margin-right: 0px; }
@@ -53,6 +53,8 @@
     .container .one-third.column                { width: 300px; }
     .container .two-thirds.column               { width: 620px; }
 
+    .container .one-fifth.column                { width: 173px; }
+
     /* Offsets */
     .container .offset-by-one                   { padding-left: 60px;  }
     .container .offset-by-two                   { padding-left: 120px; }
@@ -78,8 +80,8 @@
     /* Note: Design for a width of 768px */
 
     @media only screen and (min-width: 768px) and (max-width: 959px) {
-		.container-border                           { position: relative; width: 768px; margin: 0 auto; padding: 0;-moz-box-shadow:0px 0px 1px #ccc;-webkit-box-shadow:0px 0px 1px #ccc;box-shadow: 0px 0px 1px #ccc; }
-    	.container									{width: 768px; }
+        .container-border                           { position: relative; width: 768px; margin: 0 auto; padding: 0;-moz-box-shadow:0px 0px 1px #ccc;-webkit-box-shadow:0px 0px 1px #ccc;box-shadow: 0px 0px 1px #ccc; }
+        .container                                  {width: 768px; }
         .container .column,
         .container .columns                         { margin-left: 10px; margin-right: 10px;  }
         .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 9px; }
@@ -107,6 +109,8 @@
         .container .one-third.column                { width: 236px; }
         .container .two-thirds.column               { width: 492px; }
 
+        .container .one-fifth.column                { width: 133px; }
+
         /* Offsets */
         .container .offset-by-one                   { padding-left: 48px; }
         .container .offset-by-two                   { padding-left: 96px; }
@@ -133,7 +137,7 @@
 
     @media only screen and (max-width: 767px) {
         .container-border { position: relative;  width: 300px; margin: 0 auto; padding: 0; -moz-box-shadow:0px 0px 1px #ccc;-webkit-box-shadow:0px 0px 1px #ccc;box-shadow: 0px 0px 1px #ccc;  }    
-		.container { width: 300px;margin: 0 auto; }
+        .container { width: 300px;margin: 0 auto; }
         .container .columns,
         .container .column { margin: 0 10px; }
         .container .one.column,
@@ -153,6 +157,7 @@
         .container .fourteen.columns,
         .container .fifteen.columns,
         .container .sixteen.columns,
+        .container .one-fifth.column,
         .container .one-third.column,
         .container .two-thirds.column  { width: 280px; margin-bottom:0px; }
 
@@ -183,7 +188,7 @@
 
     @media only screen and (min-width: 480px) and (max-width: 767px) {
         .container-border { position: relative;  width: 420px; margin: 0 auto; padding: 0;-moz-box-shadow:0px 0px 1px #ccc;-webkit-box-shadow:0px 0px 1px #ccc;box-shadow: 0px 0px 1px #ccc;  }
-		.container { width: 420px; margin: 0 auto;  }
+        .container { width: 420px; margin: 0 auto;  }
         .container .columns,
         .container .column { margin: 0 10px; }
 
@@ -205,6 +210,7 @@
         .container .fifteen.columns,
         .container .sixteen.columns,
         .container .one-third.column,
+        .container .one-fifth.column,
         .container .two-thirds.column { width: 400px; }
     }
 
