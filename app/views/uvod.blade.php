@@ -121,10 +121,11 @@
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
                             <li><a href="#about">O hackathone</a></li>
                             <li><a href="#projects">Projekty</a></li>
-                            <li><a href="#schedule">Sprievodný program</a></li>
+                            <li><a href="#schedule">Program</a></li>
+                            <li><a href="#prices">Ceny</a></li>
                             <li><a href="#judges">Porota</a></li>
-                            <li><a href="#venue">Kontakt</a></li>
-                            <li><a href="#faq">FAQ</a></li>
+                            <li><a href="#venue">Praktické informácie</a></li>
+                            <li><a href="#partners">Partneri</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
                     </div>
@@ -240,7 +241,7 @@
                             <p><strong>Podklady:</strong> </p>
                             <ul class="list-square">
                                 <li>metadáta o všetkých dielach SNG - Public Domain (CSV na stiahnutie)</li>
-                                <li>reprodukcie voľne prístupných diel SNG - Public Domain (JPG na stiahnutie, alebo JP2 cez Image server) </li>
+                                <li><a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG" target="_blank">metadáta a reprodukcie voľne prístupných diel SNG</a> - Public Domain (JPG na stiahnutie, alebo JP2 cez Image server) </li>
                                 <li>kolekcia <a href="http://www.webumenia.sk/web/guest/search/-/results?orderBy=RELEVANCE&page=1&items=28&query=jedlo&layout=gridLayout&images=true&searchFor=tags" target="_blank">Food and drink</a> (diela vyobrazujúce jedlo) - Public Domain (CSV, alebo XML prostredníctvom protokolu OAI-PMH)</li>
                                 <li>zdrojový kód nového Webu umenia (Github)</li>
                                 <li>dáta o publikáciách SNG z knižničného systému (CSV, alebo prostrednítvom protokolu Z39.50)</li>
@@ -513,7 +514,7 @@
                     <div class="speaker-description">
                         <h5>Pavlína Morháčová</h5>
                         <p class="job-position">grafická dizajnérka SNG</p> 
-                        <p>autorka projektu http://mpba.sk/ </p>
+                        <p>autorka projektu <a href="http://mpba.sk/" target="_blank">mpba.sk</a> </p>
                     </div>
                 </div>
                 <!-- POROTCA  -->                
@@ -544,7 +545,7 @@
         </section>
         <!-- MODULE : POROTA --> 
                 
-        <!-- MODULE : KONTAKT -->
+        <!-- MODULE : PRAKTICKE INFORMACIE -->
         <section id="venue" class="section-container">
             <div class="map-container">
                 <div id="map"></div>
@@ -552,19 +553,51 @@
             <div class="container">
                
                 <div class="sixteen columns">
-                    <h5>Kontakt</h5>              
-                    <p>Výsledné projekty bude hodnotiť päťčlenná porota v zložení:</p>
+                    <h5>Praktické informácie</h5>              
+                    <ul class="list-square">
+                        <li>Zdrojové kódy a dáta budú k dispozícii na <a href="https://github.com/SlovakNationalGallery" target="_blank">github.com/SlovakNationalGallery</a></li>
+                        <li>Svoje projekty budete môcť priebežne konzultovať s tímom lab.SNG</li>
+                        <li>Počas trvania Hackathonu bude zabezpečené občerstvenie a nápoje (piatok 21:00 večera, sobota od 7:00  raňajky, 13.00 obed)</li>
+                        <li>V Berlinke bude možné z piatka na sobotu aj prenocovať, potrebujete spacák a karimatku</li>
+                        <li>Akékoľvek otázky môžete adresovať priamo na <a href="mailto:lab@sng.sk">lab@sng.sk</a></li>
+                    </ul>
                 </div>       
 
             </div>
         </section>
-        <!-- MODULE : KONTAKT --> 
+        <!-- MODULE : PRAKTICKE INFORMACIE --> 
 
-       
+        <!-- MODULE : TOP SPONSOR -->
+        <div class="topsponsor-section" id="partners">
+            <div class="container">
+                <div class="sixteen columns">
+                    <h5>Sponzori</h5>                
+                </div>
+                <div class="four columns topsponsor-single-withtext">
+                    <img src="img/partneri/europeana.png" alt="logo"/>
+                </div>
+                <div class="four columns topsponsor-single-withtext">
+                    <img src="img/partneri/nethemba.png" alt="logo"/>
+                </div>
+                <div class="four columns topsponsor-single-withtext">
+                    <img src="img/partneri/opis.png" alt="logo"/>
+                </div>
+                <div class="four columns topsponsor-single-withtext">
+                    <img src="img/partneri/kvant.png" alt="logo"/>
+                </div>
+                <div class="clear" style="clear: both"></div>
+                <div class="sixteen columns">
+                    <h5>Sprievodný program v parterstve s <a href="http://www.nextfestival.sk">festivalom NEXT</a></h5>       
+                    <p>&nbsp;</p>         
+                </div>
+            </div>
+        </div>
+        <!-- MODULE : TOP SPONSOR -->
+
         <!-- MODULE : FOOTER -->
         <footer>
              <div class="container">
-                <div class="sixteen columns copyright center">
+                <div class="sixteen columns copyright text-center">
                     <p class=""> 
                         <a href="http://lab.sng.sk" target="_blank" class="external">lab.SNG</a>
                     </p>
