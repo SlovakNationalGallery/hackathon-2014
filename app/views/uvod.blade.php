@@ -13,7 +13,7 @@
     <meta property="og:title" content="Hackathon SNG" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ URL::to('/') }}" />
-    <meta property="og:image" content="{{ URL::to('/img/og-image.png') }}" />
+    <meta property="og:image" content="{{ URL::to('/img/og-image-new.png') }}" />
 
     <!-- ========= 
     Favicons 
@@ -178,7 +178,7 @@
                             &nbsp;
                             <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                             <br class="clear">
-                            <a href="http://www.hackathon.io/hackathon-sng" class="button-signup main" target="_blank">Zaregistruj sa!</a>
+                            <a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">Zaregistruj sa!</a>
                         </div>
 
                         <!-- HOMEPAGE - share -->
