@@ -115,7 +115,7 @@
                 <div class="container">
                     <div class="sixteen columns">
                         <!-- NAVIGATION - Sign up -->   
-                        <div class="signup"><a href="" class="button-signup my_modal_open">Zaregistruj sa!</a></div>
+                        <div class="signup"><a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">Zaregistruj sa!</a></div>
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
@@ -442,6 +442,40 @@
         </section>
         <!-- MODULE : PROGRAM --> 
                 
+        <!-- MODULE : CENY -->
+        <section id="prices" class="section-container">
+            <div class="container text-center">
+               <img src="/img/ceny.svg" alt="ceny pre 3 najlepšie projekty">
+            </div>
+        </section>
+        <div id="statisticsection">
+            <div class="container">
+                <div class="one-third column statistic">
+                    <div class="statistic-icon"><i class="icon-wallet"></i></div>
+                    <div class="statistic-desc">
+                    <h3>500 EUR</h3>
+                    <p>finančná odmena</p>
+                    </div>
+                </div>
+                <div class="one-third column statistic">
+                    <div class="statistic-icon"><i class="icon-notebook"></i></div>
+                    <div class="statistic-desc">
+                    <h3>knihy</h3>
+                    <p>z produkcie SNG</p>
+                    </div>
+                </div>
+                <div class="one-third column statistic">
+                    <div class="statistic-icon"><i class="icon-pricetags"></i></div>
+                    <div class="statistic-desc">
+                    <h3>lístky na koncert</h3>
+                    <p>Midi Lidi &amp; Čoko Voko</p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <!-- MODULE : CENY --> 
+
         <!-- MODULE : POROTA -->
         <section id="judges" class="section-container">
             <div class="container">
@@ -468,7 +502,7 @@
                     <div class="speaker-description">
                         <h5>Ján Suchal</h5>
                         <p class="job-position">programátor</p> 
-                        <p>stojí za projektami ako foaf.sk, otvorenezmluvy.sk a govdata.sk </p>
+                        <p>stojí za projektami ako <a href="http://foaf.sk" target="_blank">foaf.sk</a>, <a href="http://otvorenezmluvy.sk" target="_blank">otvorenezmluvy.sk</a> a <a href="http://govdata.sk" target="_blank">govdata.sk</a> </p>
                     </div>
                 </div>
                 <!-- POROTCA  -->                
