@@ -8,8 +8,6 @@
 /* -- 01. Zebra Accordion -- */
 	$(document).ready(function() {
 		
-    $('nav').slideDown();
-
     $('#onepagenav').onePageNav({
         changeHash: false,
         filter: ':not(.external)',
