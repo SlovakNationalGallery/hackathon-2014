@@ -435,7 +435,7 @@
                 
                     <div class="details">
                         <div>
-                            <h6>Kolektiv</h6>
+                            <h6><a href="http://www.sonicity.cz/cs/kolektiv-pradelna" target="_blank">Kolektiv</a></h6>
                             <p>live coding audio/video performance  (v spolupráci s <a href="http://www.nextfestival.sk" target="_blank">festivalom NEXT</a>)</p>
                         </div>
                     </div>
@@ -491,7 +491,7 @@
 
                 <!-- POROTCA  -->
                 <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/sicko.jpg" alt="speaker"/></div> 
+                    <div class="speaker-thumb"><img src="img/porota/sicko2.jpg" alt="speaker"/></div> 
                     <div class="speaker-description">
                         <h5>Ján Šicko</h5>
                         <p class="job-position">grafický dizajnér</p> 
