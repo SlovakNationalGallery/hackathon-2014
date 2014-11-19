@@ -175,9 +175,12 @@
                         <!-- HOMEPAGE - share -->
                         <div class="shareon-container">
                             <div class="fb-like" data-href="http://hackathon.sng.sk/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-                        &nbsp;
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            &nbsp;
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            <br class="clear">
+                            <a href="http://www.hackathon.io/hackathon-sng" class="button-signup main" target="_blank">Zaregistruj sa!</a>
                         </div>
+
                         <!-- HOMEPAGE - share -->
                     </div>
                 </div>
@@ -215,12 +218,12 @@
                                 <ul class="list-square">
                                     <li>metadáta o dielach na Nestex-e (prostredníctvom protokolu OAI-PMH alebo ako CSV na stiahnutie)</li>
                                     <li>digitálne reprodukcie vystavených diel  (JPG na stiahnutie)</li>
-                                    <li>pdf verzia katalógu a sprievodca výstavou/li>
+                                    <li>pdf verzia katalógu a sprievodca výstavou</li>
                                     <li>zdrojový kód k aplikácii Soundwalk</li>
                                 </ul>
                                 <p><strong>Inšpirácie:</strong> </p>
                                 <ul class="list-square">
-                                    <li>Nebo-peklo - skladačka k nestálej expozícii pre rodiny s ďetmi od 6. rokov - zábavné úlohy, v ktorých sa dozviete viac o sochách alebo o perspektíve</li>
+                                    <li><a href="/downloads/nebo-peklo.pdf">Nebo-peklo - skladačka k nestálej expozícii pre rodiny s ďetmi od 6. rokov</a> - zábavné úlohy, v ktorých sa dozviete viac o sochách alebo o perspektíve</li>
                                     <li><a href="http://soundwalk.sng.sk/" target="_blank">Soundwalk Strážky</a> - aplikácia/audiosprievodca SNG pre kaštieľ Strážky (field recordings + audio príbehy) </li>
                                     <li><a href="http://news.museumhack.com/post/96090530768/audio-tours-for-the-met-the-unauthorized-alternative" target="_blank">Audio Tours for the Met: The Unauthorized Alternative</a> - podcasty kritika umenia o 11 maľbách v Metropolitnom múzeu ako alternatíva k nudným oficiálnym sprievodcom</li>
                                     <li><a href="http://audiotourhack.com/unadulterated" target="_blank">MoMA Unadulterated</a> - neoficiálny audiosprievodca vytvorený detmi pre diela v Múzeu moderného umenia v New York</li>
@@ -461,8 +464,8 @@
                 <div class="one-third column statistic">
                     <div class="statistic-icon"><i class="icon-notebook"></i></div>
                     <div class="statistic-desc">
-                    <h3>knihy</h3>
-                    <p>z produkcie SNG</p>
+                    <h3>knihy &amp; reprodukcie</h3>
+                    <p>zo SNG</p>
                     </div>
                 </div>
                 <div class="one-third column statistic">
@@ -574,16 +577,16 @@
                     <h5>Sponzori</h5>                
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <img src="img/partneri/europeana.png" alt="logo"/>
+                    <a href="http://foodanddrinkeurope.eu/" target="_blank" class="noborder"><img src="img/partneri/europeana.png" alt="logo"/></a>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <img src="img/partneri/nethemba.png" alt="logo"/>
+                    <a href="https://www.nethemba.com/" target="_blank" class="noborder"><img src="img/partneri/nethemba.png" alt="logo"/></a>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <img src="img/partneri/opis.png" alt="logo"/>
+                    <a href="http://www.opis.gov.sk/" target="_blank" class="noborder"><img src="img/partneri/opis.png" alt="logo"/></a>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <img src="img/partneri/kvant.png" alt="logo"/>
+                    <a href="http://www.kvant.sk/" target="_blank" class="noborder"><img src="img/partneri/kvant.png" alt="logo"/></a>
                 </div>
                 <div class="clear" style="clear: both"></div>
                 <div class="sixteen columns">
