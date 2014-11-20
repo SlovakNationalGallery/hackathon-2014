@@ -98,7 +98,7 @@ nav .current a {color: @primary-color;}
 
 /*Signup Section*/
 nav .signup {margin-top:15px;color:@primary-color;float:right;margin-right:0px;margin-left:0px;}
-a.button-signup{color:#000;position:relative;display:inline-block;font-weight:normal;text-decoration:none;text-align:center;display:block;font-size:13px;background-color:@primary-color;height:20px;padding:6px 10px 4px 10px;min-width:100px;-webkit-transition: background-color 0.4s ease;-moz-transition: background-color 0.5s ease;-ms-transition: background-color 0.5s ease;-o-transition: background-color 0.5s ease;transition: background-color 0.5s ease;cursor:pointer;}
+a.button-signup{font-family: @font-family-sans-serif; color:#000;position:relative;display:inline-block;text-decoration:none;text-align:center;display:block;font-size:13px;background-color:@primary-color;height:20px;padding:6px 10px 4px 10px;min-width:100px;-webkit-transition: background-color 0.4s ease;-moz-transition: background-color 0.5s ease;-ms-transition: background-color 0.5s ease;-o-transition: background-color 0.5s ease;transition: background-color 0.5s ease;cursor:pointer;}
 a.button-signup:hover {background-color: darken(@primary-color, 10%) !important;/* Old browsers */
  -webkit-transition: background-color 0.4s ease;-moz-transition: background-color 0.5s ease;-ms-transition: background-color 0.5s ease;-o-transition: background-color 0.5s ease;transition: background-color 0.5s ease;color:#fff;}
 nav select {display: none;}
@@ -113,7 +113,7 @@ HOMEPAGE
 #homepage .container {height: 100%;top:23%;bottom:23%;}
 #homepage .home-bigtext{text-align:center;margin:0 auto;width:100%;padding-top:0px;}
 #homepage .home-bigtext h1{text-shadow:0px 1px 0px #555;  letter-spacing: 2px; /* font-weight:bold; */}
-#homepage .home-bigtext p{line-height:24px;margin-top:10px;font-size:16px; letter-spacing: 12px; text-shadow:0px 1px 0px #555;}
+#homepage .home-bigtext p{line-height:24px;margin-top:10px;font-size:16px; letter-spacing: 12px; text-shadow:0px 1px 0px #555; color: @biela;}
 #homepage-widget{width:270px;height:100px;margin:0px auto; }
 #event-widget{background-color:#FFF;width:270px;height:80px;float:left;margin-top:20px;margin-bottom:20px;}
 #event-widget #event-widget-header{background-color:@cierna;width:270px;height:50px;float:left;}
@@ -128,7 +128,7 @@ HOMEPAGE
 .digit-margin{margin-left:19px;}
 .digit-day {margin-left:15px;}
 .dash-title {position: absolute;display: block;bottom: 10px;right: 0;font-size: 12px;letter-spacing: 0px;font-family:@font-family-sans-serif, sans-serif;text-align:center;width:100%;}
-.shareon-container{margin:0px auto;font-size:12px;width:280px;font-family:"Open Sans"; padding-top:20px;}
+.shareon-container{margin:0px auto; width:280px; padding-top:20px;}
 .shareon-container a.button-signup {margin: 5px auto 0; width: 160px;}
 .shareon-text{float:left;width:60px;height:20px;padding:6px 0px 4px 0px;margin-top:0px;margin-right:10px;text-align:left;color:#FFF;}
 
@@ -613,9 +613,9 @@ animation-timing-function: linear;
 }
 
 
-.shareon-container{margin:0px;  text-align: center; width: 100%; vertical-align: top; clear: both;}
-.fb-like {height:20px; vertical-align: top;}
-
+.shareon-container{margin:0px;  text-align: center; width: 100%; vertical-align: top !important; clear: both;}
+.fb-like {height:20px !important; vertical-align: top;}
+.fb_iframe_widget_fluid {display: inline-block !important;}
 .project-details {display: none}
 
 .text-center {

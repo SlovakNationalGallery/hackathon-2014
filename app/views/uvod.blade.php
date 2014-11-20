@@ -9,11 +9,12 @@
     <meta name="keywords" content="sng, art, data, digitalizácia, hackathon, open data">
     <meta name="author" content="lab.SNG">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
     
     <meta property="og:title" content="Hackathon SNG" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ URL::to('/') }}" />
-    <meta property="og:image" content="{{ URL::to('/img/og-image-new.png') }}" />
+    <meta property="og:image" content="{{ URL::to('/img/fb-image.png') }}" />
 
     <!-- ========= 
     Favicons 
