@@ -436,7 +436,7 @@
                 
                     <div class="details">
                         <div>
-                            <h6><a href="http://www.sonicity.cz/cs/kolektiv-pradelna" target="_blank">Kolektiv</a></h6>
+                            <h6><a href="http://k-o-l-e-k-t-i-v.github.io/" target="_blank">Kolektiv</a></h6>
                             <p>live coding audio/video performance  (v spolupráci s <a href="http://www.nextfestival.sk" target="_blank">festivalom NEXT</a>)</p>
                         </div>
                     </div>
