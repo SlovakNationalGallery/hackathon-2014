@@ -217,7 +217,7 @@
                             <div class="project-details">
                                 <p><strong>Podklady:</strong> </p>
                                 <ul class="list-square">
-                                    <li>metadáta o dielach na Nestex-e (prostredníctvom protokolu OAI-PMH alebo ako CSV na stiahnutie)</li>
+                                    <li>metadáta o dielach na Nestex-e (prostredníctvom <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Nestex">protokolu OAI-PMH</a> alebo ako CSV na stiahnutie)</li>
                                     <li>digitálne reprodukcie vystavených diel  (JPG na stiahnutie)</li>
                                     <li>pdf verzia katalógu a sprievodca výstavou</li>
                                     <li>zdrojový kód k aplikácii Soundwalk</li>
@@ -246,7 +246,7 @@
                             <ul class="list-square">
                                 <li>metadáta o všetkých dielach SNG - Public Domain (CSV na stiahnutie)</li>
                                 <li><a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG" target="_blank">metadáta a reprodukcie voľne prístupných diel SNG</a> - Public Domain (JPG na stiahnutie, alebo JP2 cez Image server) </li>
-                                <li>kolekcia <a href="http://www.webumenia.sk/web/guest/search/-/results?orderBy=RELEVANCE&page=1&items=28&query=jedlo&layout=gridLayout&images=true&searchFor=tags" target="_blank">Food and drink</a> (diela vyobrazujúce jedlo) - Public Domain (CSV, alebo XML prostredníctvom protokolu OAI-PMH)</li>
+                                <li>kolekcia <a href="http://www.webumenia.sk/web/guest/search/-/results?orderBy=RELEVANCE&page=1&items=28&query=jedlo&layout=gridLayout&images=true&searchFor=tags" target="_blank">Food and drink</a> (diela vyobrazujúce jedlo) - Public Domain (CSV, alebo <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Food_and_Drink">XML prostredníctvom protokolu OAI-PMH</a>)</li>
                                 <li>zdrojový kód nového Webu umenia (Github)</li>
                                 <li>dáta o publikáciách SNG z knižničného systému (CSV, alebo prostrednítvom protokolu Z39.50)</li>
                             </ul>
@@ -264,7 +264,7 @@
                             <i class="icon-picture"></i>
                         </div>
                         <span class="topic-title"><em>Spracovanie obrazu</em></span>
-                        <p>Vizuálne orientovaní účastníci môžu experimentovať s digitálnymi reprodukciami výtvarných diel, ktoré vznikajú v rámci projektu <a href="http://www.digitalnagaleria.sk/" target="_blank">Digitálna galéria</a>. Môžu napríklad skúmať súvislosti na základe farebnosti a štýlu diel autorov ako <a href="http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22%C4%BDudov%C3%ADt+Fulla%22&autocomplete=true" target="_blank">Ľudovít Fulla</a> a <a href="http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22Mikul%C3%A1%C5%A1+Galanda%22&autocomplete=true" target="_blank">Mikuláš Galanda</a>, alebo môžu ich zdigitalizované diela použiť ako zdrojový materiál pre VJing.</p>
+                        <p>Vizuálne orientovaní účastníci môžu experimentovať s digitálnymi reprodukciami výtvarných diel, ktoré vznikajú v rámci projektu <a href="http://www.digitalnagaleria.sk/" target="_blank">Digitálna galéria</a>. Môžu napríklad skúmať súvislosti na základe farebnosti a štýlu diel autorov ako <a href="http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22%C4%BDudov%C3%ADt+Fulla%22&autocomplete=true" target="_blank">Ľudovít Fulla</a> (<a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Fulla_SNG" target="_blank">OAI-PMH set</a>) a <a href="http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22Mikul%C3%A1%C5%A1+Galanda%22&autocomplete=true" target="_blank">Mikuláš Galanda</a> (<a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Galanda_SNG" target="_blank">OAI-PMH set</a>), alebo môžu ich zdigitalizované diela použiť ako zdrojový materiál pre VJing.</p>
                         <p class="right"><a href="" class="toggle-project-details">zobraziť viac &rarr;</a></p>
                         <div class="project-details">
                             <p><strong>Podklady:</strong> </p>
