@@ -248,7 +248,7 @@
                                 <li><a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG" target="_blank">metadáta a reprodukcie voľne prístupných diel SNG</a> - Public Domain (JPG na stiahnutie, alebo JP2 cez Image server) </li>
                                 <li>kolekcia <a href="http://www.webumenia.sk/web/guest/search/-/results?orderBy=RELEVANCE&page=1&items=28&query=jedlo&layout=gridLayout&images=true&searchFor=tags" target="_blank">Food and drink</a> (diela vyobrazujúce jedlo) - Public Domain (CSV, alebo <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Food_and_Drink">XML prostredníctvom protokolu OAI-PMH</a>)</li>
                                 <li>zdrojový kód nového Webu umenia (Github)</li>
-                                <li>dáta o publikáciách SNG z knižničného systému (CSV, alebo prostrednítvom protokolu Z39.50)</li>
+                                <li>dáta o publikáciách SNG z knižničného systému (CSV, alebo <a href="/downloads/kniznica-sng-pristup.pdf">prostrednítvom protokolu Z39.50</a>)</li>
                             </ul>
                             <p><strong>Inšpirácie:</strong> </p>
                             <ul class="list-square">
