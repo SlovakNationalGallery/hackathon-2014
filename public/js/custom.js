@@ -19,7 +19,30 @@
       $('.project-details').toggle();
       event.preventDefault()
     });
-	
+
+      $('.gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            closeBtnInside: false,
+            mainClass: 'mfp-with-zoom mfp-img-mobile',
+            fixedContentPos: false,              
+            image: {
+              verticalFit: true                
+            },
+            gallery: {
+              enabled: true,
+              tCounter:"%curr% / %total%"
+            },
+            zoom: {
+              enabled: true,
+              duration: 300, // don't foget to change the duration also in CSS
+              opener: function(element) {
+                return element.find('img');
+              }
+            }
+      });      
+      	
 	});
 
 /* -- 02. MOBILE NAVIGATION -- */
