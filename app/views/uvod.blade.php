@@ -173,6 +173,7 @@
                     </div>
                     <span class="topic-title">Nájdi môjho tvorcu!</span>
                     <p>Nástroj na pridávanie diel SNG do Wikipédie<br>
+                        <a href="https://github.com/iBobik/sng_wiki_match" target="_blank">github</a> | 
                         <a href="http://www.hackathon.io/najdi-mojho" target="_blank">viac informácií &rarr;</a>
                     </p>
                 </div>
