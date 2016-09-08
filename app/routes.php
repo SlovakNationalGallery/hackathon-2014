@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	return View::make('uvod', ['images'=>getImages()]);
+	return View::make('home', ['images'=>getImages()]);
 });
 
 
