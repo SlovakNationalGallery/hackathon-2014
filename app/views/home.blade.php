@@ -60,7 +60,7 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Icons css -->  
     <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css" />
+    <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
 
     <!-- ========= 
     JS
@@ -116,18 +116,17 @@
                 <div class="container">
                     <div class="sixteen columns">
                         <!-- NAVIGATION - Sign up -->   
-                        <div class="signup"><a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">hackathon.io</a></div>
+                        <div class="signup"><a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">Zaregistruj sa!</a></div>
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
                             <li><a href="#about">O hackathone</a></li>
                             <li><a href="#projects">Projekty</a></li>
-                            <li><a href="#gallery">Fotogaléria</a></li>
                             <li><a href="#schedule">Program</a></li>
                             <li><a href="#prices">Ceny</a></li>
                             <li><a href="#judges">Porota</a></li>
                             <li><a href="#venue">Praktické informácie</a></li>
-                            <!-- <li><a href="#partners">Partneri</a></li> -->
+                            <li><a href="#partners">Partneri</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
                     </div>
@@ -135,147 +134,75 @@
             </nav>
             <!-- NAVIGATION -->
 
-            <section id="trailer">                
-                    <!-- ABOUT - video -->
-                    <div class="about-video">
-                        <div class="video-container">
-                            <iframe src="//www.youtube.com/embed/nJvzVrzBJaU?autohide=1&showinfo=0&rel=0&theme=light&vq=hd720"  allowfullscreen></iframe>
+            <!-- MODULE : HOMEPAGE -->
+            <section id="homepage">
+                <img src="/img/loader.svg" class="logo" alt="logo" />
+                <div class="container">
+                    <div class="sixteen columns">
+                        <!-- HOMEPAGE - bigtext -->
+                        <div class="home-bigtext">
+                            <p class="white">28 - 29/11/2014</p>
+                            <h1 class="color">Hackathon SNG</h1>
+                            <p class="white">ART &amp; DATA</p>
                         </div>
-                    </div>  
-            </section>  
+                        <!-- HOMEPAGE - bigtext -->
+                        <!-- HOMEPAGE - widget -->
+                        <div id="homepage-widget">
+                            <div id="event-widget">
+                                <div id="countdown">
+                                    <div id="countdown_dashboard">
+                                        <div class="dash days_dash">
+                                            <span class="dash-title">dní</span>
+                                            <div class="digit digit-margin">0</div>
+                                            <div class="digit">0</div>
+                                        </div>
+                            
+                                        <div class="dash hours_dash">
+                                            <span class="dash-title">hodín</span>
+                                            <div class="digit digit-margin">0</div>
+                                            <div class="digit">0</div>
+                                        </div>
+                            
+                                        <div class="dash minutes_dash">
+                                            <span class="dash-title">minút</span>
+                                            <div class="digit digit-margin">0</div>
+                                            <div class="digit">0</div>
+                                        </div>
+                                    </div>
+                                </div> 
+                            </div>
+                        </div>
+                        <!-- HOMEPAGE - widget -->
+                        <!-- HOMEPAGE - share -->
+                        <div class="shareon-container">
+                            <div class="fb-like" data-href="http://hackathon.sng.sk/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+                            &nbsp;
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            <br class="clear">
+                            <a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">Zaregistruj sa!</a>
+                        </div>
+
+                        <!-- HOMEPAGE - share -->
+                    </div>
+                </div>
+            </section>
+            <!-- MODULE : HOMEPAGE -->
 
         <!-- MODULE : ABOUT -->
         <section id="about" class="section-container">
             <div class="container">
                
                 <div class="sixteen columns">
-                    <h5>Ďakujeme!</h5>       
-
-                    <p>Hackathon SNG bol prvým z podujatí, kde sa stretli programátori, grafickí dizajnéri, zvukoví majstri a ďalší kreatívci, aby počas 24 hodín navrhli a vytvorili projekt s využitím našich dát.</p>
-
+                    <h5>Misia</h5>              
                     <p>SNG uchováva a vystavuje výtvarné umenie nielen v jeho materiálnej, ale aj digitálnej podobe. Naše digitálne zbierky postupne otvárame verejnosti a chceme vytvoriť priestor pre ľudí, ktorí ich budú tvorivo využívať, alebo nám pomôžu pri vývoji digitálnych služieb. </p>
-
-                    <!-- <a href="http://www.hackathon.io/hackathon-sng" class="button-signup noborder" target="_blank">event @ hackathon.io</a> -->
-
+                    <p>Hackathon SNG je prvým z podujatí, kde sa stretnú programátori, grafickí dizajnéri, zvukoví majstri a ďalší kreatívci, aby počas dvoch dní navrhli a vytvorili projekt s využitím našich dát.</p>
+                    <p>Odporúčaná je účasť v tímoch, najlepšie projekty budú na záver vyhodnotené porotou a "ovenčené" zaujímavými cenami.</p>
                 </div>
 
                 <hr class="dividerline"/>
-                
-                <!-- ABOUT - topic -->
-                <div class="sixteen columns " id="projects">
-                <h5>Zapojené projekty</h5>
-                    <p>Viac informácií o účastníkoch a zapojených projektoch nájdete na <a href="http://www.hackathon.io/hackathon-sng" class="" target="_blank">www.hackathon.io/hackathon-sng</a></p>
-                </div>
-                
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/najdi-tvorcu.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">Nájdi môjho tvorcu!</span>
-                    <p>Nástroj na pridávanie diel SNG do Wikipédie<br>
-                        <a href="https://github.com/iBobik/sng_wiki_match" target="_blank">github</a> | 
-                        <a href="http://www.hackathon.io/najdi-mojho" target="_blank">viac informácií &rarr;</a>
-                    </p>
-                </div>
 
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/sng-ing.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">SNG.ING</span>
-                    <p>Interactive application working with MetaData<br>
-                        <a href="http://www.hackathon.io/sng-ing" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/nestex.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">nestex WiFiTour</span>
-                    <p>WiFi hotspot s audio sprievodcom<br>
-                        <a href="http://www.hackathon.io/nestex-wifitour" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/beacon.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">Beacon SNG (<span class="highlight">víťazný projekt</span>)</span>
-                    <p>Bring exhibition to life with use of iBeacons<br><a href="https://github.com/samuellaska/SNG_beacon" target="_blank">github</a> | 
-                        <a href="http://www.hackathon.io/beacon-sng" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/fulla.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">Geometric Toy - Fulla (<span class="highlight">víťazný projekt</span>)</span>
-                    <p>Promote slovak art via online interactive toy<br>
-                    <a href="https://github.com/zden/fulla.haluska.sk" target="_blank">github</a> | 
-                        <a href="http://www.hackathon.io/geometric-toy" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/sngram.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">SNGram (<span class="highlight">víťazný projekt</span>)</span>
-                    <p>Let's see the connections between slovak painters by analysing<br>
-                        <a href="http://www.hackathon.io/artists-colour" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/virtual-gallery.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">Virtual gallery</span>
-                    <p>Immersive artworks viewer in virtual space<br>
-                    <a href="https://github.com/drakh/sng-data" target="_blank">github</a> | 
-                        <a href="http://www.hackathon.io/virtual-gallery" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/art-rift.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">Art Rift</span>
-                    <p>Setup your own collections of arts in virtual space for Oculus<br>
-                        <a href="http://www.hackathon.io/dummy" target="_blank">viac informácií &rarr;</a></p>
-                </div>
-
-
-                <div class="sixteen columns " id="projects">
-                    <h5>Nesúťažné projekty</h5>
-                </div>
-                
-                <div class="eight columns topic-container">
-                    <div class="topic-icon">
-                        <img src="img/projekty/artmix.png" alt="topic"/>
-                    </div>
-                    <span class="topic-title">Artmix</span>
-                    <p>Aproximates two images using histograms<br>
-                        <a href="http://blog.itstar.sk/sng-hackathon.html" target="_blank">viac informácií &rarr;</a>
-                    </p>
-                </div>
-
-                <div class="clear"></div>
-
-                <hr class="dividerline"/>
-
-                <div class="sixteen columns" id="gallery">
-                    <h5 style="margin-bottom: 10px;">Fotogaléria</h5>              
-
-                    <div class="gallery">
-                            @foreach ($images as $i=>$image)
-                                    <a href="/img/fotogaleria/{{ basename($image) }}" class="noborder"><img src="/img/fotogaleria/thumb/{{ basename($image) }}" alt="nahlad" class="thumb" /></a>
-                            @endforeach
-                    </div>
-                </div>
-                
-                <hr class="dividerline"/>
-
-                <div class="sixteen columns" id="topics">
-                    <h5>Témy</h5>
+                <div class="sixteen columns" id="projects">
+                    <h5>Témy a projekty</h5>
                     <p>Konkrétne projekty sú na vás. My ako SNG poskytneme dáta, podklady a nápady + zdrojové kódy nami realizovaných aplikácií. Navrhované okruhy:</p>
                 </div>                        
 
@@ -290,10 +217,10 @@
                             <div class="project-details">
                                 <p><strong>Podklady:</strong> </p>
                                 <ul class="list-square">
-                                    <li>metadáta o dielach na Nestex-e (prostredníctvom <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Nestex">protokolu OAI-PMH</a> alebo ako <a href="https://github.com/SlovakNationalGallery/nestex-data" target="_blank">CSV na stiahnutie</a>)</li>
-                                    <li>digitálne reprodukcie vystavených diel  (<a href="https://github.com/SlovakNationalGallery/nestex-data/tree/master/nestex-katalog-jpg" target="_blank">JPG na stiahnutie</a>)</li>
-                                    <li><a href="/downloads/nestex-nahlad.pdf">pdf verzia katalógu</a> a sprievodca výstavou</li>
-                                    <li><a href="https://github.com/SlovakNationalGallery/soundwalk-strazky" target="_blank">zdrojový kód k aplikácii Soundwalk</a></li>
+                                    <li>metadáta o dielach na Nestex-e (prostredníctvom <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Nestex">protokolu OAI-PMH</a> alebo ako CSV na stiahnutie)</li>
+                                    <li>digitálne reprodukcie vystavených diel  (JPG na stiahnutie)</li>
+                                    <li>pdf verzia katalógu a sprievodca výstavou</li>
+                                    <li>zdrojový kód k aplikácii Soundwalk</li>
                                 </ul>
                                 <p><strong>Inšpirácie:</strong> </p>
                                 <ul class="list-square">
@@ -560,12 +487,12 @@
                
                 <div class="sixteen columns">
                     <h5>Porota</h5>              
-                    <p>Výsledné projekty hodnotila päťčlenná porota v zložení:</p>
+                    <p>Výsledné projekty bude hodnotiť päťčlenná porota v zložení:</p>
                 </div>
 
                 <!-- POROTCA  -->
                 <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/sicko.jpg" alt="speaker"/></div> 
+                    <div class="speaker-thumb"><img src="img/porota/sicko2.jpg" alt="speaker"/></div> 
                     <div class="speaker-description">
                         <h5>Ján Šicko</h5>
                         <p class="job-position">grafický dizajnér</p> 
@@ -632,7 +559,7 @@
                 <div class="sixteen columns">
                     <h5>Praktické informácie</h5>              
                     <ul class="list-square">
-                        <li>Zdrojové kódy a dáta sú k dispozícii na <a href="https://github.com/SlovakNationalGallery" target="_blank">github.com/SlovakNationalGallery</a></li>
+                        <li>Zdrojové kódy a dáta budú k dispozícii na <a href="https://github.com/SlovakNationalGallery" target="_blank">github.com/SlovakNationalGallery</a></li>
                         <li>Svoje projekty budete môcť priebežne konzultovať s tímom lab.SNG</li>
                         <li>Počas trvania Hackathonu bude zabezpečené občerstvenie a nápoje (piatok 21:00 večera, sobota od 7:00  raňajky, 13.00 obed)</li>
                         <li>V Berlinke bude možné z piatka na sobotu aj prenocovať, potrebujete spacák a karimatku</li>
@@ -675,16 +602,7 @@
         <footer>
              <div class="container">
                 <div class="sixteen columns copyright text-center">
-                        <!-- HOMEPAGE - share -->
-                        <div class="shareon-container">
-                            <div class="fb-like" data-href="http://hackathon.sng.sk/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-                            &nbsp;
-                            <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                        </div>
-
-                        <!-- HOMEPAGE - share -->
-
-                    <p class="createdby"> 
+                    <p class=""> 
                         <a href="http://lab.sng.sk" target="_blank" class="external">lab.SNG</a>
                     </p>
                 </div>
@@ -701,7 +619,7 @@
     ========= -->
 
     <!-- Retina Display -->
-    <script src="js/jquery.min.js"></script> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
     <script src="js/retina.js"></script>
 
     <!-- magnific-popup  -->
@@ -715,18 +633,33 @@
         });
     </script>
 
+    <!-- countdown -->
+    <script type="text/javascript" src="js/jquery.lwtCountdown-1.0.js"></script>
+    <script type="text/javascript">
+            jQuery(document).ready(function() {
+                $('#countdown_dashboard').countDown({
+                    targetDate: {
+                        'day':      28,
+                        'month':    11,
+                        'year':     2014,
+                        'hour':     16,
+                        'min':      0,
+                        'sec':      0
+                    }
+                });
+            });
+    </script>
+
     <!-- One page Nav -->
     <script src="js/jquery.scrollTo.js"></script>
     <script src="js/jquery.nav.js"></script>
     <script>
     $(document).ready(function() {
-
         $('#onepagenav').onePageNav({
-            changeHash: false,
-            filter: ':not(.external)',
-            scrollOffset: 16,
+        changeHash: false,
+        filter: ':not(.external)',
+        scrollOffset: 16,
         });
-
     });
 
     $(window).scroll(function(){
