@@ -5,7 +5,7 @@
     Title and Metas 
     ========= -->
     <meta charset="utf-8">
-    <title>Hackathon SNG | 28.-29.11. 2014</title>
+    <title>Hackathon SNG | 7.-8.10. 2016</title>
     <meta name="keywords" content="sng, art, data, digitalizácia, hackathon, open data">
     <meta name="author" content="lab.SNG">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -141,7 +141,7 @@
                     <div class="sixteen columns">
                         <!-- HOMEPAGE - bigtext -->
                         <div class="home-bigtext">
-                            <p class="white">28 - 29/11/2014</p>
+                            <p class="white">7 - 8/10/2016</p>
                             <h1 class="color">Hackathon SNG</h1>
                             <p class="white">ART &amp; DATA</p>
                         </div>
@@ -639,10 +639,10 @@
             jQuery(document).ready(function() {
                 $('#countdown_dashboard').countDown({
                     targetDate: {
-                        'day':      28,
-                        'month':    11,
-                        'year':     2014,
-                        'hour':     16,
+                        'day':      7,
+                        'month':    10,
+                        'year':     2016,
+                        'hour':     17,
                         'min':      0,
                         'sec':      0
                     }
