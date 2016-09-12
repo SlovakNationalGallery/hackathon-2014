@@ -218,7 +218,128 @@
                         <li>3d Visualisations</li>
                     </ul>
                 </div>
-                </div>                        
+
+                <!-- MODULE : MENTORS -->
+                <section id="mentors" class="section-container">
+                    <div class="container">
+                        <div class="sixteen columns">
+                            <h3>Mentors</h3>              
+                            <p>During the hackathon teams will be supported by an international selection of experienced mentors</p>
+                        </div>
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Mentor</h5>
+                                <p class="job-position">mentor</p> 
+                                <p>Mentor is an awesome mentor</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/amalia-filip.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Amalia Filip</h5>
+                                <p class="job-position">mentor</p> 
+                                <p>Mentor is an awesome mentor</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/matej-fandl.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Matej Fandl</h5>
+                                <p class="job-position">Creative coder</p> 
+                                <p>Matej has a keen interest in artificial intelligence, natural interfaces, multi-agent modeling and computer vision. He uses his technical skills to create captivating online and offline experience at <a href="http://www.mladypes.sk/">Mladý pes</a>.</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Norwegian mentor (TBA)</h5>
+                                <p class="job-position">mentor</p> 
+                                <p>Mentor is an awesome mentor</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Nasjonalmuseet</h5>
+                                <p class="job-position">mentor</p> 
+                                <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen - Nasjonalmuseet API, digital collection</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/kusa.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Alexandra Kusá</h5>
+                                <p class="job-position">general director SNG</p> 
+                                <p>Art historic and Curator</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Dušan Buran</h5>
+                                <p class="job-position">curator</p> 
+                                <p>Dušan is the chief curator at SNG</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentors/igor-rjabinin.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>lab.SNG</h5>
+                                <p class="job-position">digital R&amp;D</p> 
+                                <p>lab.SNG develops <a href="http://www.webumenia.sk/">webumenia.sk</a> as well as other innovative web projects.</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->                
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentors/philo-van-kemenade.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Philo van Kemenade</h5>
+                                <p class="job-position">web developer</p> 
+                                <p>Philo splits his time between developing web projects at <a href="http://sng.sk/">SNG</a> and running the computational design studio <a href="http://unfold.is">Unfold</a>.</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->                
+
+                        <!-- POROTCA  -->
+                        <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentors/dag-hensten.jpg" alt="speaker"/></div> 
+                            <div class="speaker-description">
+                                <h5>Dag Hensten</h5>
+                                <p class="job-position">senior consultant</p> 
+                                <p>Dag is Senior Advisor in digital stuff at <a href="http://www.nasjonalmuseet.no/">Nasjonalmuseet</a></p>
+                                <p>He likes his coffee strong and black.</p>
+                            </div>
+                        </div>
+                        <!-- POROTCA  -->
+                    </div>
+                </section>
+                <!-- MODULE : POROTA --> 
 
                 <div class="topic-container one-third column">
                         <div class="topic-icon">
@@ -495,73 +616,7 @@
         </div>
         <!-- MODULE : CENY --> 
 
-        <!-- MODULE : POROTA -->
-        <section id="judges" class="section-container">
-            <div class="container">
-               
-                <div class="sixteen columns">
-                    <h5>Porota</h5>              
-                    <p>Výsledné projekty bude hodnotiť päťčlenná porota v zložení:</p>
-                </div>
-
-                <!-- POROTCA  -->
-                <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/sicko2.jpg" alt="speaker"/></div> 
-                    <div class="speaker-description">
-                        <h5>Ján Šicko</h5>
-                        <p class="job-position">grafický dizajnér</p> 
-                        <p>aktívny v oblasti <a href="http://www.devkid.com/" target="_blank">nových médií</a>, vedúci <a href="http://www.medialab.sk/" target="_blank">Medialabu</a> </p>
-                    </div>
-                </div>
-                <!-- POROTCA  -->                
-
-                <!-- POROTCA  -->
-                <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/suchal.jpg" alt="speaker"/></div> 
-                    <div class="speaker-description">
-                        <h5>Ján Suchal</h5>
-                        <p class="job-position">programátor</p> 
-                        <p>stojí za projektami ako <a href="http://foaf.sk" target="_blank">foaf.sk</a>, <a href="http://otvorenezmluvy.sk" target="_blank">otvorenezmluvy.sk</a> a <a href="http://govdata.sk" target="_blank">govdata.sk</a> </p>
-                    </div>
-                </div>
-                <!-- POROTCA  -->                
-
-                <!-- POROTCA  -->
-                <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/morhacova.jpg" alt="speaker"/></div> 
-                    <div class="speaker-description">
-                        <h5>Pavlína Morháčová</h5>
-                        <p class="job-position">grafická dizajnérka SNG</p> 
-                        <p>autorka projektu <a href="http://mpba.sk/" target="_blank">mpba.sk</a> </p>
-                    </div>
-                </div>
-                <!-- POROTCA  -->                
-
-                <!-- POROTCA  -->
-                <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/hvorecky.jpg" alt="speaker"/></div> 
-                    <div class="speaker-description">
-                        <h5>Jozef Hvorecký</h5>
-                        <p class="job-position">vysokoškolský pedagóg</p> 
-                        <p>špecializujúci sa na e-learning, na používanie výpočtovej techniky vo vzdelávaní </p>
-                    </div>
-                </div>
-                <!-- POROTCA  -->                
-
-                <!-- POROTCA  -->
-                <div class="one-fifth column speaker-profile">
-                    <div class="speaker-thumb"><img src="img/porota/kusa.jpg" alt="speaker"/></div> 
-                    <div class="speaker-description">
-                        <h5>Alexandra Kusá</h5>
-                        <p class="job-position">generála riaditeľka SNG</p> 
-                        <p>historička umenia, kurátorka</p>
-                    </div>
-                </div>
-                <!-- POROTCA  -->                
-
-            </div>
-        </section>
-        <!-- MODULE : POROTA --> 
+        
                 
         <!-- MODULE : PRAKTICKE INFORMACIE -->
         <section id="venue" class="section-container">
