@@ -192,10 +192,10 @@
         <section id="about" class="section-container">
             <div class="container">
                
-                <div class="sixteen columns">
-                    <h5>We invite you</h5>
+                <div id="invitation" class="sixteen columns">
+                    <h2>We invite you!</h2>
                     <p>Art is no longer confined by the limits of galleries or established formats. Technology can help us breath life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
-                    <p>Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by liked-minded creatives.</p>
+                    <p>Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
                     <a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">Registrations open until 6.10.2016</a>
                 </div>
 
