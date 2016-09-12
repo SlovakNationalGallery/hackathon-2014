@@ -201,9 +201,23 @@
 
                 <hr class="dividerline"/>
 
-                <div class="sixteen columns" id="projects">
-                    <h5>Témy a projekty</h5>
-                    <p>Konkrétne projekty sú na vás. My ako SNG poskytneme dáta, podklady a nápady + zdrojové kódy nami realizovaných aplikácií. Navrhované okruhy:</p>
+                <div id="resources" class="sixteen columns">
+                    <h3>Resources</h3>
+                    <ul class="list-square">
+                        <li>Nasjonalmuseet - Solr Index As Api</li>
+                        <li>Webumenia - Open Elastic Search Api</li>
+                        <li>Artist Data
+                            <ul>
+                                <li>Lexicon Data in RDF (Norwegian Artists)</li>
+                                <li><a Href="https://snl.no/">sln.no</a></li>
+                                <li><a Href="http://www.getty.edu/research/tools/vocabularies/ulan/">Ulan</a></li>
+                                <li>Artist Data From Webumenia - Elastic Search</li>
+                            </ul>
+                        </li>
+                        <li>Audioguide</li>
+                        <li>3d Visualisations</li>
+                    </ul>
+                </div>
                 </div>                        
 
                 <div class="topic-container one-third column">
