@@ -255,14 +255,14 @@
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
-                    <div class="one-third column speaker-profile">
+                    {{-- <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Dušan Buran</h5>
                             <p class="job-position">curator</p> 
                             <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>
                         </div>
-                    </div>
+                    </div> --}}
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
