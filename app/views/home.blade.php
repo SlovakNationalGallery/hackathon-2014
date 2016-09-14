@@ -299,28 +299,28 @@
             <div class="container">
                
                 <div class="sixteen columns">
-                    <h5>Program</h5>              
+                    <h3>Program</h3>              
                 </div>
 
                 <!-- schedule list -->
                 <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
-                            <h6>Piatok</h6>
+                            <h6>Friday</h6>
                         </div>
                     </div>
                 
                     <div class="time">
                         <div>
                             <h6>17.00</h6>
-                            <p>(40 min)</p>
                         </div>
                     </div>
                 
                     <div class="details">
                         <div>
-                            <h6>otvorenie Hackathonu (Alexandra Kusá)</h6>
-                            <p>organizačné pokyny (Michal Čudrnák a Igor Rjabinin)<br/> predstavenie projektu Europeana Food and Drink </p>
+                            <h6>Welcome &amp; introduction</h6>
+                            <h6>Lightning talks</h6>
+                            <h6>Team formation</h6>
                         </div>
                     </div>
                 </div>
@@ -336,15 +336,14 @@
                 
                     <div class="time">
                         <div>
-                            <h6>17.40</h6>
-                            <p>(40 min)</p>
+                            <h6>19.00</h6>
                         </div>
                     </div>
                 
                     <div class="details">
                         <div>
-                            <h6>komentovaná prehliadka Nestálej expozície SNG</h6>
-                            <p>s kurátorkou Katarínou Chmelinovou (1. poschodie Esterházyho paláca) </p>
+                            <h6>Brainstorming in teams</h6>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -360,15 +359,63 @@
                 
                     <div class="time">
                         <div>
-                            <h6>18.20</h6>
-                            <p>&nbsp;</p>
+                            <h6>21.00</h6>
                         </div>
                     </div>
                 
                     <div class="details">
                         <div>
-                            <h6>prezentácia projektu Soft Revolvers</h6>
-                            <p><a href="http://myriambleau.com/" target="_blank">Myriam Bleau</a>  (v spolupráci s <a href="http://www.nextfestival.sk/" target="_blank">festivalom NEXT</a>) </p>
+                            <h6>Status update per team</h6>
+                            <p>Teams share progress, problems &amp; plans</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- schedule list -->
+
+                <!-- schedule list -->
+                <div class="sixteen columns schedule-list even">
+                    <div class="day">
+                        <div>
+                            <h6>Saturday</h6>
+                        </div>
+                    </div>
+                    
+                    <div class="time">
+                        <div>
+                            <h6>10.00</h6>
+                            <p>1 hour</p>
+                        </div>
+                    </div>
+                
+                    <div class="details">
+                        <div>
+                            <h6>Workshops</h6>
+                            <p>Intro to collaboration via Git for Designers and Developers</p>
+                            <p>Using the Webumenia Elastic Search API</p>
+                            <p>Using the Nasjonalmuseet content API</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- schedule list -->
+
+                <div class="sixteen columns schedule-list odd">
+                    <div class="day">
+                        <div>
+                            <h6></h6>
+                        </div>
+                    </div>
+                
+                    <div class="time">
+                        <div>
+                            <h6>13.00</h6>
+                            <p></p>
+                        </div>
+                    </div>
+                
+                    <div class="details">
+                        <div>
+                            <h6>* Lunch *</h6>
+                            <p>Served by Berlinka</p>
                         </div>
                     </div>
                 </div>
@@ -384,15 +431,15 @@
                 
                     <div class="time">
                         <div>
-                            <!-- <h6>-</h6> -->
-                            <p>v priebehu večera</p>
+                            <h6>14.00</h6>
+                            <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
                         <div>
-                            <h6>laser show Kvant</h6>
-                            <p></p>
+                            <h6>Final sprint</h6>
+                            <p>Teams are actively supported by mentors</p>
                         </div>
                     </div>
                 </div>
@@ -402,21 +449,21 @@
                 <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
-                            <h6>Sobota</h6>
+                            <h6></h6>
                         </div>
                     </div>
                 
                     <div class="time">
                         <div>
-                            <h6>17.00</h6>
+                            <h6>19.00</h6>
                             <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
                         <div>
-                            <h6>prezentácia a hodnotenie projektov<br> vyhlásenie výsledkov</h6>
-                            <p></p>
+                            <h6>Public Live demos</h6>
+                            <p>Teams present their creations in a 5 minute live demo open to the public</p>
                         </div>
                     </div>
                 </div>
@@ -432,20 +479,45 @@
                 
                     <div class="time">
                         <div>
-                            <h6>18.30</h6>
+                            <h6>20.00</h6>
                             <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
                         <div>
-                            <h6><a href="http://k-o-l-e-k-t-i-v.github.io/" target="_blank">Kolektiv</a></h6>
-                            <p>live coding audio/video performance  (v spolupráci s <a href="http://www.nextfestival.sk" target="_blank">festivalom NEXT</a>)</p>
+                            <h6>Awards</h6>
+                            <p>Best Prototype</p>
+                            <p>Most Original Concept</p>
+                            <p>Best Presentation</p>
                         </div>
                     </div>
                 </div>
                 <!-- schedule list -->
 
+                <!-- schedule list -->
+                <div class="sixteen columns schedule-list odd">
+                    <div class="day">
+                        <div>
+                            <h6></h6>
+                        </div>
+                    </div>
+                
+                    <div class="time">
+                        <div>
+                            <h6>21.00</h6>
+                            <p></p>
+                        </div>
+                    </div>
+                
+                    <div class="details">
+                        <div>
+                            <h6>After Party</h6>
+                            <p>Afterparty: <a href="https://soundcloud.com/cidrim">Cid Rim Live</a> (LuckyMe, Affine Records/AT)</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- schedule list -->
             </div>
         </section>
         <!-- MODULE : PROGRAM -->
@@ -454,7 +526,8 @@
         <section id="resources" class="section-container">
             <div class="container">
                 <div class="sixteen columns">
-                    <h3>Resources</h3>
+                    <h4>Resources</h4>
+                    <p>Besides <strong>delicious food &amp; beverages</strong> and <strong>super fast WiFi</strong>, we will provide the following media and tech resources:</p>
                     <ul class="list-square">
                         <li>Nasjonalmuseet - Solr Index As Api</li>
                         <li>Webumenia - Open Elastic Search Api</li>
@@ -466,13 +539,15 @@
                                 <li>Artist Data From Webumenia - Elastic Search</li>
                             </ul>
                         </li>
-                        <li>Audioguide</li>
-                        <li>3d Visualisations</li>
+                        <li>Open source audioguide</li>
+                        <li>3d Visualisations of SNG Reconstruction</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!-- MODULE : RESOURCES -->
+
+        <hr class="dividerline"/>
                 
         <!-- MODULE : CENY -->
         <section id="prices" class="section-container">
