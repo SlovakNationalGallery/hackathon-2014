@@ -197,57 +197,38 @@
                     <p>Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
                     <a href="http://www.hackathon.io/hackathon-sng" class="button-signup" target="_blank">Registrations open until 6.10.2016</a>
                 </div>
-
-                <hr class="dividerline"/>
-
-                <div id="resources" class="sixteen columns">
-                    <h3>Resources</h3>
-                    <ul class="list-square">
-                        <li>Nasjonalmuseet - Solr Index As Api</li>
-                        <li>Webumenia - Open Elastic Search Api</li>
-                        <li>Artist Data
-                            <ul>
-                                <li>Lexicon Data in RDF (Norwegian Artists)</li>
-                                <li><a Href="https://snl.no/">sln.no</a></li>
-                                <li><a Href="http://www.getty.edu/research/tools/vocabularies/ulan/">Ulan</a></li>
-                                <li>Artist Data From Webumenia - Elastic Search</li>
-                            </ul>
-                        </li>
-                        <li>Audioguide</li>
-                        <li>3d Visualisations</li>
-                    </ul>
-                </div>
+            </div>
         </section>
         <!-- MODULE : ABOUT --> 
 
-                <!-- MODULE : MENTORS -->
-                <section id="mentors" class="section-container">
-                    <div class="container">
-                        <div class="sixteen columns">
-                            <h3>Mentors</h3>              
-                            <p>During the hackathon teams will be supported by an international selection of experienced mentors</p>
-                        </div>
+        <!-- MODULE : MENTORS -->
+        <section id="mentors" class="section-container">
+            <div class="container">
+                <div class="sixteen columns">
+                    <h3>Mentors</h3>              
+                    <p>During the hackathon teams will be supported by an international selection of experienced mentors</p>
+                </div>
                 <div class="container">
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/matej-fandl.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Matej Fandl</h5>
-                                <p class="job-position">Creative coder</p> 
-                                <p>Matej has a keen interest in artificial intelligence, natural interfaces, multi-agent modeling and computer vision. He uses his technical skills to create captivating online and offline experience at <a href="http://www.mladypes.sk/">Mladý pes</a>.</p>
-                            </div>
+                        <div class="speaker-thumb"><img src="img/mentors/matej-fandl.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Matej Fandl</h5>
+                            <p class="job-position">Creative coder</p> 
+                            <p>Matej has a keen interest in artificial intelligence, natural interfaces, multi-agent modeling and computer vision. He uses his technical skills to create captivating online and offline experience at <a href="http://www.mladypes.sk/">Mladý pes</a>.</p>
                         </div>
+                    </div>
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Nasjonalmuseet</h5>
-                                <p class="job-position">digital collection team</p> 
-                                <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen will help participants access their digital collection using the Nasjonalmuseet API.</p>
-                            </div>
+                        <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Nasjonalmuseet</h5>
+                            <p class="job-position">digital collection team</p> 
+                            <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen will help participants access their digital collection using the Nasjonalmuseet API.</p>
                         </div>
+                    </div>
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
@@ -263,50 +244,50 @@
                 </div>
                 <div class="container">
                     <!-- MENTOR  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Alexandra Kusá</h5>
-                                <p class="job-position">general director SNG</p> 
+                    <div class="one-fifth column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Alexandra Kusá</h5>
+                            <p class="job-position">general director SNG</p> 
                             <p>Besides being a curator and General Director at SNG, Alexandra lectures at the Department of History of art at The Faculty of Philosophy of Comenius University. She devotes herself to the art of 20. century and its role in other disciplines.</p>
-                            </div>
                         </div>
+                    </div>
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
                     <div class="one-fifth column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Dušan Buran</h5>
-                                <p class="job-position">curator</p> 
+                        <div class="speaker-description">
+                            <h5>Dušan Buran</h5>
+                            <p class="job-position">curator</p> 
                             <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>
-                            </div>
+                        </div>
                     </div>
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/sng.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>lab.SNG</h5>
-                                <p class="job-position">digital R&amp;D</p> 
-                                <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help team collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open sourced</a>.</p>
-                            </div>
+                    <div class="one-fifth column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/sng.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>lab.SNG</h5>
+                            <p class="job-position">digital R&amp;D</p> 
+                            <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help team collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open sourced</a>.</p>
                         </div>
+                    </div>
                     <!-- MENTOR  -->                
 
                     <!-- MENTOR  -->
-                        {{-- <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Norwegian mentor (TBA)</h5>
-                                <p class="job-position">mentor</p> 
-                                <p></p>
-                            </div>
-                        </div> --}}
+                    {{-- <div class="one-fifth column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Norwegian mentor (TBA)</h5>
+                            <p class="job-position">mentor</p> 
+                            <p></p>
+                        </div>
+                    </div> --}}
                     <!-- MENTOR  -->
                     
-                    </div>
+                </div>
 
 
             </div>
@@ -467,7 +448,31 @@
 
             </div>
         </section>
-        <!-- MODULE : PROGRAM --> 
+        <!-- MODULE : PROGRAM -->
+
+        <!-- MODULE : RESOURCES -->
+        <section id="resources" class="section-container">
+            <div class="container">
+                <div class="sixteen columns">
+                    <h3>Resources</h3>
+                    <ul class="list-square">
+                        <li>Nasjonalmuseet - Solr Index As Api</li>
+                        <li>Webumenia - Open Elastic Search Api</li>
+                        <li>Artist Data
+                            <ul>
+                                <li>Lexicon Data in RDF (Norwegian Artists)</li>
+                                <li><a Href="https://snl.no/">sln.no</a></li>
+                                <li><a Href="http://www.getty.edu/research/tools/vocabularies/ulan/">Ulan</a></li>
+                                <li>Artist Data From Webumenia - Elastic Search</li>
+                            </ul>
+                        </li>
+                        <li>Audioguide</li>
+                        <li>3d Visualisations</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- MODULE : RESOURCES -->
                 
         <!-- MODULE : CENY -->
         <section id="prices" class="section-container">
