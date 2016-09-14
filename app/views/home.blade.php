@@ -191,7 +191,6 @@
         <!-- MODULE : ABOUT -->
         <section id="about" class="section-container">
             <div class="container">
-               
                 <div id="invitation" class="sixteen columns">
                     <h2>We invite you!</h2>
                     <p>Art is no longer confined by the limits of galleries or established formats. Technology can help us breath life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
@@ -218,6 +217,8 @@
                         <li>3d Visualisations</li>
                     </ul>
                 </div>
+        </section>
+        <!-- MODULE : ABOUT --> 
 
                 <!-- MODULE : MENTORS -->
                 <section id="mentors" class="section-container">
@@ -226,20 +227,9 @@
                             <h3>Mentors</h3>              
                             <p>During the hackathon teams will be supported by an international selection of experienced mentors</p>
                         </div>
-
-                        <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/amalia-filip.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Amalia Filip</h5>
-                                <p class="job-position">VR researcher</p> 
-                                <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with live visuals, graphics and sound. Her latest research topic is VR.</p>
-                            </div>
-                        </div>
-                        <!-- POROTCA  -->
-
-                        <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
+                <div class="container">
+                    <!-- MENTOR  -->
+                    <div class="one-third column speaker-profile">
                             <div class="speaker-thumb"><img src="img/mentors/matej-fandl.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Matej Fandl</h5>
@@ -247,10 +237,10 @@
                                 <p>Matej has a keen interest in artificial intelligence, natural interfaces, multi-agent modeling and computer vision. He uses his technical skills to create captivating online and offline experience at <a href="http://www.mladypes.sk/">Mladý pes</a>.</p>
                             </div>
                         </div>
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
 
-                        <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
+                    <!-- MENTOR  -->
+                    <div class="one-third column speaker-profile">
                             <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Nasjonalmuseet</h5>
@@ -258,31 +248,43 @@
                                 <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen will help participants access their digital collection using the Nasjonalmuseet API.</p>
                             </div>
                         </div>
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
 
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
+                    <div class="one-third column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/amalia-filip.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Amalia Filip</h5>
+                            <p class="job-position">VR researcher</p> 
+                            <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with live visuals, graphics and sound. Her latest research topic is VR.</p>
+                        </div>
+                    </div>
+                    <!-- MENTOR  -->
+                </div>
+                <div class="container">
+                    <!-- MENTOR  -->
                         <div class="one-fifth column speaker-profile">
                             <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Alexandra Kusá</h5>
                                 <p class="job-position">general director SNG</p> 
-                                <p>Besides being a curator, Alexandra lectures at the Department of History of art at The Faculty of Philosophy of Comenius University. She devotes herself to the art of 20. century and its role in other disciplines.</p>
+                            <p>Besides being a curator and General Director at SNG, Alexandra lectures at the Department of History of art at The Faculty of Philosophy of Comenius University. She devotes herself to the art of 20. century and its role in other disciplines.</p>
                             </div>
                         </div>
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
 
-                        <!-- POROTCA  -->
-                        {{-- <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
+                    <!-- MENTOR  -->
+                    <div class="one-fifth column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Dušan Buran</h5>
                                 <p class="job-position">curator</p> 
-                                <p>Dušan is the chief curator at SNG</p>
+                            <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>
                             </div>
-                        </div> --}}
-                        <!-- POROTCA  -->
+                    </div>
+                    <!-- MENTOR  -->
 
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
                         <div class="one-fifth column speaker-profile">
                             <div class="speaker-thumb"><img src="img/mentors/sng.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
@@ -291,9 +293,9 @@
                                 <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help team collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open sourced</a>.</p>
                             </div>
                         </div>
-                        <!-- POROTCA  -->                
+                    <!-- MENTOR  -->                
 
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
                         {{-- <div class="one-fifth column speaker-profile">
                             <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
@@ -302,13 +304,14 @@
                                 <p></p>
                             </div>
                         </div> --}}
-                        <!-- POROTCA  -->
+                    <!-- MENTOR  -->
+                    
                     </div>
-                </section>
-                <!-- MODULE : POROTA --> 
+
+
             </div>
         </section>
-        <!-- MODULE : ABOUT --> 
+        <!-- MODULE : MENTORS --> 
 
         <!-- MODULE : PROGRAM -->
         <section id="schedule" class="section-container">
