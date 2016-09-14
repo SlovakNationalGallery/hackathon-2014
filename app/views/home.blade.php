@@ -225,8 +225,8 @@
                         <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Nasjonalmuseet</h5>
-                            <p class="job-position">digital collection team</p> 
-                            <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen will help participants access their digital collection using the Nasjonalmuseet API.</p>
+                            <p class="job-position">digital collection team</p>
+                            <p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href="http://samling.nasjonalmuseet.no/en/">samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>
                         </div>
                     </div>
                     <!-- MENTOR  -->
@@ -244,7 +244,7 @@
                 </div>
                 <div class="container">
                     <!-- MENTOR  -->
-                    <div class="one-fifth column speaker-profile">
+                    <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Alexandra Kusá</h5>
@@ -255,7 +255,7 @@
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
-                    <div class="one-fifth column speaker-profile">
+                    <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Dušan Buran</h5>
@@ -266,18 +266,18 @@
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
-                    <div class="one-fifth column speaker-profile">
+                    <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/sng.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>lab.SNG</h5>
                             <p class="job-position">digital R&amp;D</p> 
-                            <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help team collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open sourced</a>.</p>
+                            <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help teams collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open-sourced</a>.</p>
                         </div>
                     </div>
                     <!-- MENTOR  -->                
 
                     <!-- MENTOR  -->
-                    {{-- <div class="one-fifth column speaker-profile">
+                    {{-- <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Norwegian mentor (TBA)</h5>
