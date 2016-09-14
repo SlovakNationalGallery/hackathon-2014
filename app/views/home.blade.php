@@ -588,22 +588,21 @@
                 
         <!-- MODULE : PRAKTICKE INFORMACIE -->
         <section id="venue" class="section-container">
-            <div class="map-container">
-                <div id="map"></div>
-            </div>
             <div class="container">
-               
                 <div class="sixteen columns">
-                    <h5>Praktické informácie</h5>              
+                    <h3>Practical information</h3>              
                     <ul class="list-square">
-                        <li>Zdrojové kódy a dáta budú k dispozícii na <a href="https://github.com/SlovakNationalGallery" target="_blank">github.com/SlovakNationalGallery</a></li>
-                        <li>Svoje projekty budete môcť priebežne konzultovať s tímom lab.SNG</li>
-                        <li>Počas trvania Hackathonu bude zabezpečené občerstvenie a nápoje (piatok 21:00 večera, sobota od 7:00  raňajky, 13.00 obed)</li>
-                        <li>V Berlinke bude možné z piatka na sobotu aj prenocovať, potrebujete spacák a karimatku</li>
-                        <li>Akékoľvek otázky môžete adresovať priamo na <a href="mailto:lab@sng.sk">lab@sng.sk</a></li>
+                        <li>You can sign up individually or as a team. We will make sure that individual participants' skills are complemented by other team members.</li>
+                        <li>We encourage bringing ideas and content for projects you have in mind or in production.</li>
+                        <li>After the final sprint all prototypes are presented in a live demo and their source code will be made available open-source for others to study and build on beyond the event. Anything created during the hackathon remains intellectual property of the creators in the team.</li>
+                        <li>Food and beverages will be provided throughout the hackathon.</li>
+                        <li>It's possible to spend the night in Berlinka from Friday to Saturday. If you'd like to, please bring your own sleeping bag and mat.</li>
+                        <li>Any questions can be addressed directly to <a href="mailto:lab@sng.sk">lab@sng.sk</a></li>
                     </ul>
                 </div>       
-
+            </div>
+            <div class="map-container">
+                <div id="map"></div>
             </div>
         </section>
         <!-- MODULE : PRAKTICKE INFORMACIE --> 
