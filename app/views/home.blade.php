@@ -120,13 +120,12 @@
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
-                            <li><a href="#about">O hackathone</a></li>
-                            <li><a href="#projects">Projekty</a></li>
-                            <li><a href="#schedule">Program</a></li>
-                            <li><a href="#awards">Ceny</a></li>
-                            <li><a href="#judges">Porota</a></li>
-                            <li><a href="#venue">Praktické informácie</a></li>
-                            <li><a href="#partners">Partneri</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#mentors">Mentors</a></li>
+                            <li><a href="#schedule">Programme</a></li>
+                            <li><a href="#awards">Awards</a></li>
+                            <li><a href="#practical">Practical info</a></li>
+                            <li><a href="#partners">Partners</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
                     </div>
@@ -587,7 +586,7 @@
         
                 
         <!-- MODULE : PRAKTICKE INFORMACIE -->
-        <section id="venue" class="section-container">
+        <section id="practical" class="section-container">
             <div class="container">
                 <div class="sixteen columns">
                     <h3>Practical information</h3>              
