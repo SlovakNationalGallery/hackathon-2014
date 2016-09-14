@@ -229,29 +229,18 @@
 
                         <!-- POROTCA  -->
                         <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Mentor</h5>
-                                <p class="job-position">mentor</p> 
-                                <p>Mentor is an awesome mentor</p>
-                            </div>
-                        </div>
-                        <!-- POROTCA  -->
-
-                        <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/amalia-filip.jpg" alt="speaker"/></div> 
+                            <div class="speaker-thumb"><img src="img/mentors/amalia-filip.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Amalia Filip</h5>
-                                <p class="job-position">mentor</p> 
-                                <p>Mentor is an awesome mentor</p>
+                                <p class="job-position">VR researcher</p> 
+                                <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with live visuals, graphics and sound. Her latest research topic is VR.</p>
                             </div>
                         </div>
                         <!-- POROTCA  -->
 
                         <!-- POROTCA  -->
                         <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/matej-fandl.jpg" alt="speaker"/></div> 
+                            <div class="speaker-thumb"><img src="img/mentors/matej-fandl.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Matej Fandl</h5>
                                 <p class="job-position">Creative coder</p> 
@@ -262,166 +251,61 @@
 
                         <!-- POROTCA  -->
                         <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Norwegian mentor (TBA)</h5>
-                                <p class="job-position">mentor</p> 
-                                <p>Mentor is an awesome mentor</p>
-                            </div>
-                        </div>
-                        <!-- POROTCA  -->
-
-                        <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
+                            <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Nasjonalmuseet</h5>
-                                <p class="job-position">mentor</p> 
-                                <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen - Nasjonalmuseet API, digital collection</p>
+                                <p class="job-position">digital collection team</p> 
+                                <p>Dag Hensteen, Magnus Bognerud, Gro Pedersen will help participants access their digital collection using the Nasjonalmuseet API.</p>
                             </div>
                         </div>
                         <!-- POROTCA  -->
 
                         <!-- POROTCA  -->
                         <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/kusa.jpg" alt="speaker"/></div> 
+                            <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Alexandra Kusá</h5>
                                 <p class="job-position">general director SNG</p> 
-                                <p>Art historic and Curator</p>
+                                <p>Besides being a curator, Alexandra lectures at the Department of History of art at The Faculty of Philosophy of Comenius University. She devotes herself to the art of 20. century and its role in other disciplines.</p>
                             </div>
                         </div>
                         <!-- POROTCA  -->
 
                         <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentor/mentor.jpg" alt="speaker"/></div> 
+                        {{-- <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>Dušan Buran</h5>
                                 <p class="job-position">curator</p> 
                                 <p>Dušan is the chief curator at SNG</p>
                             </div>
-                        </div>
+                        </div> --}}
                         <!-- POROTCA  -->
 
                         <!-- POROTCA  -->
                         <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/igor-rjabinin.jpg" alt="speaker"/></div> 
+                            <div class="speaker-thumb"><img src="img/mentors/sng.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
                                 <h5>lab.SNG</h5>
                                 <p class="job-position">digital R&amp;D</p> 
-                                <p>lab.SNG develops <a href="http://www.webumenia.sk/">webumenia.sk</a> as well as other innovative web projects.</p>
+                                <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help team collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open sourced</a>.</p>
                             </div>
                         </div>
                         <!-- POROTCA  -->                
 
                         <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/philo-van-kemenade.jpg" alt="speaker"/></div> 
+                        {{-- <div class="one-fifth column speaker-profile">
+                            <div class="speaker-thumb"><img src="img/mentors/mentor.jpg" alt="speaker"/></div> 
                             <div class="speaker-description">
-                                <h5>Philo van Kemenade</h5>
-                                <p class="job-position">web developer</p> 
-                                <p>Philo splits his time between developing web projects at <a href="http://sng.sk/">SNG</a> and running the computational design studio <a href="http://unfold.is">Unfold</a>.</p>
+                                <h5>Norwegian mentor (TBA)</h5>
+                                <p class="job-position">mentor</p> 
+                                <p></p>
                             </div>
-                        </div>
-                        <!-- POROTCA  -->                
-
-                        <!-- POROTCA  -->
-                        <div class="one-fifth column speaker-profile">
-                            <div class="speaker-thumb"><img src="img/mentors/dag-hensten.jpg" alt="speaker"/></div> 
-                            <div class="speaker-description">
-                                <h5>Dag Hensten</h5>
-                                <p class="job-position">senior consultant</p> 
-                                <p>Dag is Senior Advisor in digital stuff at <a href="http://www.nasjonalmuseet.no/">Nasjonalmuseet</a></p>
-                                <p>He likes his coffee strong and black.</p>
-                            </div>
-                        </div>
+                        </div> --}}
                         <!-- POROTCA  -->
                     </div>
                 </section>
                 <!-- MODULE : POROTA --> 
-
-                <div class="topic-container one-third column">
-                        <div class="topic-icon">
-                            <i class="icon-mobile"></i>
-                        </div>
-                        
-                            <span class="topic-title"><em>Nestex aplikácia</em></span>
-                            <p>Nestála expozícia SNG svojou atypickou inštaláciou prezentuje umenie gotiky a baroka v novom svetle a kontexte. Spracovanie tejto výstavy napríklad do podoby mobilnej aplikácie je pre nás ďalšou výzvou v snahe popularizovať staré umenie. Vítaná je práca s "oficiálnymi" dátami od nás, rovnako ako pôvodný obsah vytvorený na mieste. </p>
-                            <p class="right"><a href="" class="toggle-project-details">zobraziť viac &rarr;</a></p>
-                            <div class="project-details">
-                                <p><strong>Podklady:</strong> </p>
-                                <ul class="list-square">
-                                    <li>metadáta o dielach na Nestex-e (prostredníctvom <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Nestex">protokolu OAI-PMH</a> alebo ako CSV na stiahnutie)</li>
-                                    <li>digitálne reprodukcie vystavených diel  (JPG na stiahnutie)</li>
-                                    <li>pdf verzia katalógu a sprievodca výstavou</li>
-                                    <li>zdrojový kód k aplikácii Soundwalk</li>
-                                </ul>
-                                <p><strong>Inšpirácie:</strong> </p>
-                                <ul class="list-square">
-                                    <li><a href="/downloads/nebo-peklo.pdf">Nebo-peklo - skladačka k nestálej expozícii pre rodiny s ďetmi od 6. rokov</a> - zábavné úlohy, v ktorých sa dozviete viac o sochách alebo o perspektíve</li>
-                                    <li><a href="http://soundwalk.sng.sk/" target="_blank">Soundwalk Strážky</a> - aplikácia/audiosprievodca SNG pre kaštieľ Strážky (field recordings + audio príbehy) </li>
-                                    <li><a href="http://news.museumhack.com/post/96090530768/audio-tours-for-the-met-the-unauthorized-alternative" target="_blank">Audio Tours for the Met: The Unauthorized Alternative</a> - podcasty kritika umenia o 11 maľbách v Metropolitnom múzeu ako alternatíva k nudným oficiálnym sprievodcom</li>
-                                    <li><a href="http://audiotourhack.com/unadulterated" target="_blank">MoMA Unadulterated</a> - neoficiálny audiosprievodca vytvorený detmi pre diela v Múzeu moderného umenia v New York</li>
-                                </ul>
-                            </div>
-                        
-                    </div>
-                    
-                    <div class="topic-container one-third column">
-                        <div class="topic-icon">
-                            <i class="icon-globe"></i>
-                        </div>
-                        <span class="topic-title"><em>Web umenia</em></span>
-                        <p>
-                        Jedným z cieľov <a href="http://www.webumenia.sk" target="_blank">Webu umenia</a> je prehľadne a pútavo sprístupniť veľké množstvo obrázkov a dát o dielach zo zbierok slovenských galérií. Momentálne pracujeme na jeho novej podobe, ktorej prototyp môžete vidieť na stránke k výstave <a href="http://dvekrajiny.sng.sk">Dve krajiny</a>. Nové funkcie ako napr. vizualizácia dát pre nás budú inšpiráciou pri rozhodovaní v tom, akým smerom sa uberať ďalej. </p>
-                        <p class="right"><a href="" class="toggle-project-details">zobraziť viac &rarr;</a></p>
-                        <div class="project-details">
-                            <p><strong>Podklady:</strong> </p>
-                            <ul class="list-square">
-                                <li>metadáta o všetkých dielach SNG - Public Domain (CSV na stiahnutie)</li>
-                                <li><a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG" target="_blank">metadáta a reprodukcie voľne prístupných diel SNG</a> - Public Domain (JPG na stiahnutie, alebo JP2 cez Image server) </li>
-                                <li>kolekcia <a href="http://www.webumenia.sk/web/guest/search/-/results?orderBy=RELEVANCE&page=1&items=28&query=jedlo&layout=gridLayout&images=true&searchFor=tags" target="_blank">Food and drink</a> (diela vyobrazujúce jedlo) - Public Domain (CSV, alebo <a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Food_and_Drink">XML prostredníctvom protokolu OAI-PMH</a>)</li>
-                                <li>zdrojový kód nového Webu umenia (Github)</li>
-                                <li>dáta o publikáciách SNG z knižničného systému (CSV, alebo <a href="/downloads/kniznica-sng-pristup.pdf">prostrednítvom protokolu Z39.50</a>)</li>
-                            </ul>
-                            <p><strong>Inšpirácie:</strong> </p>
-                            <ul class="list-square">
-                                <li><a href="https://collection.cooperhewitt.org/objects/colors/" target="_blank">Cooper Hewitt Colors!</a> - vyhľadávanie v zbierkach amerického múzea dizajnu podľa farieb (<a href="http://labs.cooperhewitt.org/2014/a-colophon-for-bias/" target="_blank">blog o technickom riešení</a>)</li>
-                                <li><a href="http://labs.cooperhewitt.org/2013/default-sort-or-what-would-shannon-do/" target="_blank">Triedenie diel podľa komplexnosti obrázku / Shannonovej Entropie</a></li>
-                            </ul>
-                            <!-- Práve prebieha redizajn webumenia.sk od nuly. Práve v tejto fáze je najlepší čas pridať funkcie a nástroje - o ktorých si myslíte, že by sa mohli hodiť. -->
-                        </div>
-                    </div>
-                    
-                    <div class="topic-container one-third column">
-                        <div class="topic-icon">
-                            <i class="icon-picture"></i>
-                        </div>
-                        <span class="topic-title"><em>Spracovanie obrazu</em></span>
-                        <p>Vizuálne orientovaní účastníci môžu experimentovať s digitálnymi reprodukciami výtvarných diel, ktoré vznikajú v rámci projektu <a href="http://www.digitalnagaleria.sk/" target="_blank">Digitálna galéria</a>. Môžu napríklad skúmať súvislosti na základe farebnosti a štýlu diel autorov ako <a href="http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22%C4%BDudov%C3%ADt+Fulla%22&autocomplete=true" target="_blank">Ľudovít Fulla</a> (<a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Fulla_SNG" target="_blank">OAI-PMH set</a>) a <a href="http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22Mikul%C3%A1%C5%A1+Galanda%22&autocomplete=true" target="_blank">Mikuláš Galanda</a> (<a href="http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Galanda_SNG" target="_blank">OAI-PMH set</a>), alebo môžu ich zdigitalizované diela použiť ako zdrojový materiál pre VJing.</p>
-                        <p class="right"><a href="" class="toggle-project-details">zobraziť viac &rarr;</a></p>
-                        <div class="project-details">
-                            <p><strong>Podklady:</strong> </p>
-                            <ul class="list-square">
-                                    <li>voľne prístupné diela SNG vo vysokom rozlíšení</li>
-                                    <li>náhľady zdigitalizovaných diel slovensých zbierkotvorných galérií</li>
-                            </ul>
-                            <p><strong>Návrhy:</strong> </p>
-                            <ul class="list-square">
-                                <li>vývoj farebnosti v dielach maliara Galandu porovnávaním histogramu jednotlivých obrázkov</li>
-                                <li>Fularizér - aplikácia pre pretvorenie fotky do Fullového obrazu</li>
-                            </ul>
-                            <p><strong>Inšpirácie:</strong> </p>
-                            <ul class="list-square">
-                                <li><a href="http://www.tate.org.uk/context-comment/apps/muybridgizer" target="_blank">Muybridgizer</a> - aplikácia, ktorá nasnímané video pretvorí s efektom prvých filmových experimentov</li>
-                                <li><a href="https://medium.com/the-physics-arxiv-blog/when-a-machine-learning-algorithm-studied-fine-art-paintings-it-saw-things-art-historians-had-never-b8e4e7bf7d3e" target="_blank">When A Machine Learning Algorithm Studied Fine Art Paintings, It Saw Things Art Historians Had Never Noticed</a> - algoritmus ktorý pomocou spracovania obrazu a automatickej klasifikácie triedi výtvarné diela podľa vizuálnych konceptov</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                <div class="clear"></div>
-
             </div>
         </section>
         <!-- MODULE : ABOUT --> 
