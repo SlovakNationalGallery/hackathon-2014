@@ -599,7 +599,7 @@
                         <li>It's possible to spend the night in Berlinka from Friday to Saturday. If you'd like to, please bring your own sleeping bag and mat.</li>
                         <li>Any questions can be addressed directly to <a href="mailto:lab@sng.sk">lab@sng.sk</a></li>
                     </ul>
-                </div>       
+                </div>
             </div>
             <div class="map-container">
                 <div id="map"></div>
@@ -607,23 +607,25 @@
         </section>
         <!-- MODULE : PRAKTICKE INFORMACIE --> 
 
-        <!-- MODULE : TOP SPONSOR -->
+        <!-- MODULE : PARTNERS -->
+        
+        <!-- 
         <div class="topsponsor-section" id="partners">
             <div class="container">
                 <div class="sixteen columns">
-                    <h5>Sponzori</h5>                
+                    <h3>Partners</h3>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <a href="http://foodanddrinkeurope.eu/" target="_blank" class="noborder"><img src="img/partneri/europeana.png" alt="logo"/></a>
+                    <a href="http://eeagrants.org/" target="_blank" class="noborder"><img src="img/partners/eea-grants.png" alt="logo"/></a>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <a href="https://www.nethemba.com/" target="_blank" class="noborder"><img src="img/partneri/nethemba.png" alt="logo"/></a>
+                    <a href="https://www.nethemba.com/" target="_blank" class="noborder"><img src="img/partners/nethemba.png" alt="logo"/></a>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <a href="http://www.opis.gov.sk/" target="_blank" class="noborder"><img src="img/partneri/opis.png" alt="logo"/></a>
+                    <a href="http://www.opis.gov.sk/" target="_blank" class="noborder"><img src="img/partners/opis.png" alt="logo"/></a>
                 </div>
                 <div class="four columns topsponsor-single-withtext">
-                    <a href="http://www.kvant.sk/" target="_blank" class="noborder"><img src="img/partneri/kvant.png" alt="logo"/></a>
+                    <a href="http://www.kvant.sk/" target="_blank" class="noborder"><img src="img/partners/kvant.png" alt="logo"/></a>
                 </div>
                 <div class="clear" style="clear: both"></div>
                 <div class="sixteen columns">
@@ -632,7 +634,9 @@
                 </div>
             </div>
         </div>
-        <!-- MODULE : TOP SPONSOR -->
+        -->
+
+        <!-- MODULE : PARTNERS -->
 
         <!-- MODULE : FOOTER -->
         <footer>
