@@ -123,7 +123,7 @@
                             <li><a href="#about">O hackathone</a></li>
                             <li><a href="#projects">Projekty</a></li>
                             <li><a href="#schedule">Program</a></li>
-                            <li><a href="#prices">Ceny</a></li>
+                            <li><a href="#awards">Ceny</a></li>
                             <li><a href="#judges">Porota</a></li>
                             <li><a href="#venue">Praktické informácie</a></li>
                             <li><a href="#partners">Partneri</a></li>
@@ -549,39 +549,40 @@
 
         <hr class="dividerline"/>
                 
-        <!-- MODULE : CENY -->
-        <section id="prices" class="section-container">
-            <div class="container text-center">
-               <img src="/img/ceny.svg" alt="ceny pre 3 najlepšie projekty">
+        <!-- MODULE : AWARDS -->
+        <section id="awards" class="section-container">
+            
+            <div id="statisticsection">
+                <div class="container">
+                    <div class="sixteen columns">
+                        <h3>Awards</h3>
+                        <p>Winners will be awarded in the categories: <strong>Best Prototype</strong>, <strong>Most Original Concept</strong> and <strong>Best Presentation</strong></p>
+                    </div>
+                    <div class="one-third column statistic">
+                        <div class="statistic-icon"><i class="icon-picture"></i></div>
+                        <div class="statistic-desc">
+                        <h3>Printed reproductions</h3>
+                        <p>High quality in house prints from SNG</p>
+                        </div>
+                    </div>
+                    <div class="one-third column statistic">
+                        <div class="statistic-icon"><i class="icon-notebook"></i></div>
+                        <div class="statistic-desc">
+                            <h3>Publications &amp; merchandise</h3>
+                            <p>From SNG &amp; Nasjonalmuseet</p>
+                        </div>
+                    </div>
+                    <div class="one-third column statistic">
+                        <div class="statistic-icon"><i class="icon-pricetags"></i></div>
+                        <div class="statistic-desc">
+                        <h3>and more...</h3>
+                        <p></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
-        <div id="statisticsection">
-            <div class="container">
-                <div class="one-third column statistic">
-                    <div class="statistic-icon"><i class="icon-wallet"></i></div>
-                    <div class="statistic-desc">
-                    <h3>500 EUR</h3>
-                    <p>finančná odmena</p>
-                    </div>
-                </div>
-                <div class="one-third column statistic">
-                    <div class="statistic-icon"><i class="icon-notebook"></i></div>
-                    <div class="statistic-desc">
-                    <h3>knihy &amp; reprodukcie</h3>
-                    <p>zo SNG</p>
-                    </div>
-                </div>
-                <div class="one-third column statistic">
-                    <div class="statistic-icon"><i class="icon-pricetags"></i></div>
-                    <div class="statistic-desc">
-                    <h3>lístky na koncert</h3>
-                    <p>Midi Lidi &amp; Čoko Voko</p>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        <!-- MODULE : CENY --> 
+        <!-- MODULE : AWARDS --> 
 
         
                 
