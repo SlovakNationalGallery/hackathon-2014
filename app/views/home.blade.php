@@ -595,7 +595,6 @@
                         <li>We encourage bringing ideas and content for projects you have in mind or in production.</li>
                         <li>After the final sprint all prototypes are presented in a live demo and their source code will be made available open-source for others to study and build on beyond the event. Anything created during the hackathon remains intellectual property of the creators in the team.</li>
                         <li>Food and beverages will be provided throughout the hackathon.</li>
-                        <li>It's possible to spend the night in Berlinka from Friday to Saturday. If you'd like to, please bring your own sleeping bag and mat.</li>
                         <li>Any questions can be addressed directly to <a href="mailto:lab@sng.sk">lab@sng.sk</a></li>
                     </ul>
                 </div>
