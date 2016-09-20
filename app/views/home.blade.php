@@ -116,7 +116,7 @@
                 <div class="container">
                     <div class="sixteen columns">
                         <!-- NAVIGATION - Sign up -->   
-                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Zaregistruj sa!</a></div>
+                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Register now!</a></div>
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
@@ -178,7 +178,7 @@
                             &nbsp;
                             <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                             <br class="clear">
-                            <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Zaregistruj sa!</a>
+                            <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Register now!</a>
                         </div>
 
                         <!-- HOMEPAGE - share -->
