@@ -528,6 +528,8 @@
                 <div class="sixteen columns">
                     <h4>Resources</h4>
                     <p>Besides <strong>delicious food &amp; beverages</strong> and <strong>super fast WiFi</strong>, we will provide the following media and tech resources:</p>
+                </div>
+                <div class="eight columns">
                     <ul class="list-square">
                         <li>Nasjonalmuseet - Solr Index As Api</li>
                         <li>Webumenia - Open Elastic Search Api</li>
@@ -536,9 +538,13 @@
                                 <li>Lexicon Data in RDF (Norwegian Artists)</li>
                                 <li><a Href="https://snl.no/">sln.no</a></li>
                                 <li><a Href="http://www.getty.edu/research/tools/vocabularies/ulan/">Ulan</a></li>
-                                <li>Artist Data From Webumenia - Elastic Search</li>
+                                {{-- <li>Artist Data From Webumenia - Elastic Search</li> --}}
                             </ul>
                         </li>
+                    </ul>
+                </div>
+                <div class="eight columns">
+                    <ul class="list-square">
                         <li>Open source audioguide</li>
                         <li>3d Visualisations of SNG Reconstruction</li>
                     </ul>
