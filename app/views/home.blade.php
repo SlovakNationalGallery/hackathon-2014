@@ -545,7 +545,7 @@
                         <li>Artist Data
                             <ul>
                                 <li>Lexicon Data in RDF (Norwegian Artists)</li>
-                                <li><a Href="https://snl.no/">sln.no</a></li>
+                                <li><a Href="http://nkl.snl.no/">nkl.snl.no</a></li>
                                 <li><a Href="http://www.getty.edu/research/tools/vocabularies/ulan/">Ulan</a></li>
                                 {{-- <li>Artist Data From Webumenia - Elastic Search</li> --}}
                             </ul>
