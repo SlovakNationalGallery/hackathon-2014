@@ -13,7 +13,12 @@
 
 Route::get('/', function()
 {
-	return View::make('uvod', ['images'=>getImages()]);
+	return View::make('home', ['images'=>getImages()]);
+});
+
+Route::get('/2014', function()
+{
+	return View::make('2014', ['images'=>getImages()]);
 });
 
 

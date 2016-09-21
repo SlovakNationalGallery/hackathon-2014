@@ -50,7 +50,7 @@ Based on module
 /*==========================================================================
 GENERAL
 ========================================================================== */
-body {background:@light;font: 12px @font-family-sans-serif, sans-serif;color: @text-color;text-rendering: optimizeLegibility; font-weight: normal !important;}
+body {background:@light;font: 14px @font-family-sans-serif, sans-serif;color: @text-color;text-rendering: optimizeLegibility; font-weight: normal !important;}
 ::-moz-selection {background: @primary-color;color: @text-color;}
 ::selection {background: @primary-color;color: @text-color;}
 .hidden {display: none;}
@@ -74,7 +74,7 @@ h5 {font-size: 16px; font-family:@font-family-heading;}
 h6 {font-size: 14px; font-family:@font-family-heading;}
 h1.color,h2.color,h3.color,h4.color,h5.color,h6.color{color:@primary-color;}
 h1.white,h2.white,h3.white,h4.white,h5.white,h6.white{color:#FFF;}
-p{margin-bottom: 10px;font-size:12px;line-height:21px;color:@text-color;}
+p{margin-bottom: 10px;font-size:14px;line-height:21px;color:@text-color;}
 p.white{color:#FFF;}
 a, a > * {text-decoration: none; border-bottom: 1px solid @cierna; color:@cierna;-webkit-transition: all 0.4s ease;-moz-transition: all 0.5s ease;-ms-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease;}
 a:hover, a > *:hover {text-decoration: none;  border-bottom: 1px solid transparent; color:@primary-color; -webkit-transition: all 0.4s ease;-moz-transition: all 0.5s ease;-ms-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease;}
@@ -98,7 +98,7 @@ nav .current a {color: @primary-color;}
 
 /*Signup Section*/
 nav .signup {margin-top:15px;color:@primary-color;float:right;margin-right:0px;margin-left:0px;}
-a.button-signup{max-width: 150px; font-family: @font-family-sans-serif; color:#000;position:relative;display:inline-block;text-decoration:none;text-align:center;display:block;font-size:13px;background-color:@primary-color;height:20px;padding:6px 10px 4px 10px;min-width:100px;-webkit-transition: background-color 0.4s ease;-moz-transition: background-color 0.5s ease;-ms-transition: background-color 0.5s ease;-o-transition: background-color 0.5s ease;transition: background-color 0.5s ease;cursor:pointer; margin: auto;}
+a.button-signup{max-width: 150px; font-family: @font-family-sans-serif; color:#000;position:relative;display:inline-block;text-decoration:none;text-align:center;display:block;font-size:13px;background-color:@primary-color;padding:6px 10px 4px 10px;min-width:100px;-webkit-transition: background-color 0.4s ease;-moz-transition: background-color 0.5s ease;-ms-transition: background-color 0.5s ease;-o-transition: background-color 0.5s ease;transition: background-color 0.5s ease;cursor:pointer; margin: auto;}
 a.button-signup:hover {background-color: darken(@primary-color, 10%) !important;/* Old browsers */
  -webkit-transition: background-color 0.4s ease;-moz-transition: background-color 0.5s ease;-ms-transition: background-color 0.5s ease;-o-transition: background-color 0.5s ease;transition: background-color 0.5s ease;color:#fff;}
 nav select {display: none;}
@@ -128,8 +128,8 @@ HOMEPAGE
 .digit-margin{margin-left:19px;}
 .digit-day {margin-left:15px;}
 .dash-title {position: absolute;display: block;bottom: 10px;right: 0;font-size: 12px;letter-spacing: 0px;font-family:@font-family-sans-serif, sans-serif;text-align:center;width:100%;}
-.shareon-container{margin:0px auto; float: right;}
-.shareon-container a.button-signup {margin: 5px auto 0; width: 160px;}
+.shareon-container{margin:0px auto;  }
+.shareon-container a.button-signup {margin: 15px auto 0; width: 160px; font-size: 16px; }
 .shareon-text{float:left;width:60px;height:20px;padding:6px 0px 4px 0px;margin-top:0px;margin-right:10px;text-align:left;color:#FFF;}
 
 /* HOMEPAGE VARIATION 2 : HALF STATIC IMAGE */
@@ -424,7 +424,7 @@ a.file-download:hover {background-color:@text-color;}
 .statistic{min-height:50px;background-color:@biela;}
 .statistic .statistic-icon{background-color:@biela; width:70px; height:70px;float:left;margin-right:0px; font-size: 42px; text-align: center}
 .statistic .statistic-icon i {line-height: 67px; }
-.statistic-desc{width:210px; height:30px;float:left; padding:5px 10px;}
+.statistic-desc{width:210px;float:left; padding:5px 10px;}
 .statistic-desc h3{color:@primary-color; /* font-weight:bold; */ margin:0; font-size: 18px;}
 
 /* CSS for high-resolution devices */
@@ -594,7 +594,7 @@ animation-timing-function: linear;
 }
 
 
-.shareon-container{margin:0px;  text-align: center; vertical-align: top !important; }
+.shareon-container{ text-align: center; vertical-align: top !important; clear: both; }
 .fb-like {height:20px !important; vertical-align: top;}
 .fb_iframe_widget_fluid {display: inline-block !important;}
 .project-details {display: none}
@@ -632,3 +632,34 @@ a:hover img.thumb {  opacity: 0.4; filter: alpha(opacity=40); }
 .highlight {background-color: @primary-color}
 
 .toggle-project-details {white-space: nowrap;}
+
+.lead {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+img.partners {
+	margin: 20px auto;
+	max-width: 100%;
+}
+
+canvas#canv, canvas#wordCanv {
+	position: absolute;
+	top: 0; left: 0;
+}
+
+canvas#canv {
+	z-index: 10;
+}
+
+textarea#wordsTxt {
+	font-family: @font-family-heading;
+	position:absolute;
+	left:-1000px;top:-1000px;
+}
+
+.home-bigtext h1.color {
+	opacity: 0;
+}
