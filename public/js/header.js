@@ -92,7 +92,7 @@
         // wordsTxt.focus();
         
         n++;
-        if(n%10==0 && (cw!=document.body.clientWidth || ch!=document.body.clientHeight)) body_resize();
+        if(n%10==0 && (cw!=document.getElementById('homepage').offsetWidth || ch!=document.getElementById('homepage').offsetHeight)) body_resize();
         timerRunning=false;
       }
       else
@@ -150,7 +150,7 @@
       {
         wordWidth=0;
         fontSize-=5;
-        wordCtx.font=fontSize+"px sans-serif";
+        wordCtx.font=fontSize+"px 'Wigrum Medium', 'Fugue', sans-serif";
         for(var i=0;i<txt.length;i++)
         {
           var w=wordCtx.measureText(txt[i]).width;
