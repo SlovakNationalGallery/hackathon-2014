@@ -219,6 +219,17 @@
                 <div class="container">
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/amalia-filip.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Amalia Filip</h5>
+                            <p class="job-position">VR researcher</p> 
+                            <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with live visuals, graphics and sound. Her latest research topic is VR.</p>
+                        </div>
+                    </div>
+                    <!-- MENTOR  -->
+
+                    <!-- MENTOR  -->
+                    <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/matej-fandl.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Matej Fandl</h5>
@@ -230,34 +241,24 @@
 
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
-                        <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
-                            <h5>Nasjonalmuseet</h5>
-                            <p class="job-position">digital collection team</p>
-                            <p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href="http://samling.nasjonalmuseet.no/en/">samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>
-                        </div>
-                    </div>
-                    <!-- MENTOR  -->
-
-                    <!-- MENTOR  -->
-                    <div class="one-third column speaker-profile">
-                        <div class="speaker-thumb"><img src="img/mentors/amalia-filip.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
-                            <h5>Amalia Filip</h5>
-                            <p class="job-position">VR researcher</p> 
-                            <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with live visuals, graphics and sound. Her latest research topic is VR.</p>
-                        </div>
-                    </div>
-                    <!-- MENTOR  -->
-                </div>
-                <div class="container">
-                    <!-- MENTOR  -->
-                    <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Alexandra Kusá</h5>
                             <p class="job-position">general director SNG</p> 
                             <p>Besides being a curator and General Director at SNG, Alexandra lectures at the Department of History of art at The Faculty of Philosophy of Comenius University. She devotes herself to the art of 20. century and its role in other disciplines.</p>
+                        </div>
+                    </div>
+                    <!-- MENTOR  -->
+
+                </div>
+                <div class="container">
+                    <!-- MENTOR  -->
+                    <div class="one-third column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Nasjonalmuseet</h5>
+                            <p class="job-position">digital collection team</p>
+                            <p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href="http://samling.nasjonalmuseet.no/en/">samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>
                         </div>
                     </div>
                     <!-- MENTOR  -->
@@ -279,7 +280,7 @@
                         <div class="speaker-description">
                             <h5>lab.SNG</h5>
                             <p class="job-position">digital R&amp;D</p> 
-                            <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help teams collaborate via Git and open up other projects that lab has <a href="github.com/slovaknationalgallery">open-sourced</a>.</p>
+                            <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help teams collaborate via Git and open up other projects that lab has <a href="https://github.com/SlovakNationalGallery">open-sourced</a>.</p>
                         </div>
                     </div>
                     <!-- MENTOR  -->                
