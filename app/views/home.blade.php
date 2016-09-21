@@ -141,7 +141,7 @@
                 </canvas>
                 <canvas id="wordCanv" width="500px" height="500px" style="border:1px solid black;display:none;">
                 </canvas>
-                <textarea id="wordsTxt" onblur="hinit();" onkeyup="hinit();" onclick="hinit();"></textarea>
+                <textarea id="wordsTxt"></textarea>
 
 
                 <div class="container">
@@ -545,7 +545,7 @@
                         <li>Artist Data
                             <ul>
                                 <li>Lexicon Data in RDF (Norwegian Artists)</li>
-                                <li><a Href="https://snl.no/">sln.no</a></li>
+                                <li><a Href="http://nkl.snl.no/">nkl.snl.no</a></li>
                                 <li><a Href="http://www.getty.edu/research/tools/vocabularies/ulan/">Ulan</a></li>
                                 {{-- <li>Artist Data From Webumenia - Elastic Search</li> --}}
                             </ul>
