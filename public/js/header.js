@@ -1,9 +1,7 @@
+// inspired by William M. Hoza - http://william.hoza.us/text/
+
     var title = "Hackathon";
-    // var l=document.location + "";
-    // l=l.replace(/%20/g," ");
-    // var index=l.indexOf('?t=');
-    // if(index==-1) document.location=l + "?t=Hackathon";
-  
+   
     var pixels=new Array();
     var canv=$getById('canv');
     var ctx=canv.getContext('2d');
