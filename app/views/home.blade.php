@@ -136,6 +136,14 @@
             <!-- MODULE : HOMEPAGE -->
             <section id="homepage">
                 <img src="/img/loader.svg" class="logo" alt="logo" />
+
+                <canvas id="canv" onmousemove="canv_mousemove(event);" onmouseout="mx=-1;my=-1;">
+                </canvas>
+                <canvas id="wordCanv" width="500px" height="500px" style="border:1px solid black;display:none;">
+                </canvas>
+                <textarea id="wordsTxt" onblur="hinit();" onkeyup="hinit();" onclick="hinit();"></textarea>
+
+
                 <div class="container">
                     <div class="sixteen columns">
                         <!-- HOMEPAGE - bigtext -->
@@ -151,19 +159,19 @@
                                 <div id="countdown">
                                     <div id="countdown_dashboard">
                                         <div class="dash days_dash">
-                                            <span class="dash-title">dní</span>
+                                            <span class="dash-title">days</span>
                                             <div class="digit digit-margin">0</div>
                                             <div class="digit">0</div>
                                         </div>
                             
                                         <div class="dash hours_dash">
-                                            <span class="dash-title">hodín</span>
+                                            <span class="dash-title">hours</span>
                                             <div class="digit digit-margin">0</div>
                                             <div class="digit">0</div>
                                         </div>
                             
                                         <div class="dash minutes_dash">
-                                            <span class="dash-title">minút</span>
+                                            <span class="dash-title">minutes</span>
                                             <div class="digit digit-margin">0</div>
                                             <div class="digit">0</div>
                                         </div>
@@ -267,7 +275,7 @@
 
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
-                        <div class="speaker-thumb"><img src="img/mentors/sng.jpg" alt="speaker"/></div> 
+                        <div class="speaker-thumb"><img src="img/mentors/lab_sng.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>lab.SNG</h5>
                             <p class="job-position">digital R&amp;D</p> 
@@ -747,6 +755,8 @@
               });
             });
         </script>   
+        <script src="js/header.js"></script>
+
 
 
 </body>

@@ -643,3 +643,22 @@ a:hover img.thumb {  opacity: 0.4; filter: alpha(opacity=40); }
 img.partners {
 	margin: 20px auto;
 }
+
+canvas#canv, canvas#wordCanv {
+	position: absolute;
+	top: 0; left: 0;
+}
+
+canvas#canv {
+	z-index: 10;
+}
+
+textarea#wordsTxt {
+	font-family: @font-family-heading;
+	position:absolute;
+	left:-1000px;top:-1000px;
+}
+
+.home-bigtext h1.color {
+	opacity: 0;
+}
