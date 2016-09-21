@@ -141,7 +141,7 @@
                 </canvas>
                 <canvas id="wordCanv" width="500px" height="500px" style="border:1px solid black;display:none;">
                 </canvas>
-                <textarea id="wordsTxt" onblur="hinit();" onkeyup="hinit();" onclick="hinit();"></textarea>
+                <textarea id="wordsTxt"></textarea>
 
 
                 <div class="container">

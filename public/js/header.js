@@ -89,7 +89,7 @@
         }
         
         drawPixels();
-        wordsTxt.focus();
+        // wordsTxt.focus();
         
         n++;
         if(n%10==0 && (cw!=document.body.clientWidth || ch!=document.body.clientHeight)) body_resize();
@@ -208,7 +208,7 @@
       hinit();
     }
     
-    wordsTxt.focus();
+    // wordsTxt.focus();
     wordsTxt.value=title;
     
     resHalfFloor=Math.floor(resolution/2);
