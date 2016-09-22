@@ -3,6 +3,7 @@
     var title = "Hackathon";
    
     var pixels=new Array();
+    var hcontainer=$getById('homepage');
     var canv=$getById('canv');
     var ctx=canv.getContext('2d');
     var wordCanv=$getById('wordCanv');
@@ -21,8 +22,9 @@
     
     function canv_mousemove(evt)
     {
-      mx=evt.clientX-canv.offsetLeft;
-      my=evt.clientY-canv.offsetTop;
+
+      mx=evt.clientX-canv.offsetLeft-((document.body.clientWidth - hcontainer.offsetWidth)/2);
+      my=evt.clientY-canv.offsetTop-hcontainer.offsetTop;
     }
     
     function Pixel(homeX,homeY)
@@ -92,7 +94,7 @@
         // wordsTxt.focus();
         
         n++;
-        if(n%10==0 && (cw!=document.getElementById('homepage').offsetWidth || ch!=document.getElementById('homepage').offsetHeight)) body_resize();
+        if(n%10==0 && (cw!=hcontainer.offsetWidth || ch!=hcontainer.offsetHeight)) body_resize();
         timerRunning=false;
       }
       else
@@ -198,8 +200,8 @@
     {
       // cw=document.body.clientWidth;
       // ch=document.body.clientHeight;
-      cw=document.getElementById('homepage').offsetWidth;
-      ch=document.getElementById('homepage').offsetHeight;
+      cw=hcontainer.offsetWidth;
+      ch=hcontainer.offsetHeight;
       canv.width=cw;
       canv.height=ch;
       wordCanv.width=cw;
