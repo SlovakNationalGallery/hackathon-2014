@@ -223,7 +223,7 @@
                         <div class="speaker-description">
                             <h5>Amalia Filip</h5>
                             <p class="job-position">VR researcher</p> 
-                            <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with live visuals, graphics and sound. Her latest research topic is VR.</p>
+                            <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with sound, live visuals and graphics. Her latest research topic is VR</p>
                         </div>
                     </div>
                     <!-- MENTOR  -->
