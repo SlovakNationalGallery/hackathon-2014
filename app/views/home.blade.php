@@ -199,10 +199,10 @@
         <section id="about" class="section-container">
             <div class="container">
                 <div id="invitation" class="sixteen columns">
-                    <h2>We invite you!</h2>
-                    <p class="lead">Art is no longer confined by the limits of galleries or established formats. Technology can help us breath life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
+                    <h2>You are invited!</h2>
+                    <p class="lead">Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
                     <p class="lead">Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
-                    <p class="lead">The event is part of "Art, collections and data across borders" project, supported by Norway, Island and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
+                    <p class="lead">The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
                     <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Registrations open until 5.10.2016</a>
                 </div>
             </div>
@@ -254,6 +254,17 @@
                 <div class="container">
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
+                        <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
+                        <div class="speaker-description">
+                            <h5>Dušan Buran</h5>
+                            <p class="job-position">curator</p> 
+                            <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>
+                        </div>
+                    </div>
+                    <!-- MENTOR  -->
+
+                    <!-- MENTOR  -->
+                    <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
                         <div class="speaker-description">
                             <h5>Nasjonalmuseet</h5>
@@ -261,17 +272,6 @@
                             <p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href="http://samling.nasjonalmuseet.no/en/">samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>
                         </div>
                     </div>
-                    <!-- MENTOR  -->
-
-                    <!-- MENTOR  -->
-                    {{-- <div class="one-third column speaker-profile">
-                        <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
-                            <h5>Dušan Buran</h5>
-                            <p class="job-position">curator</p> 
-                            <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>
-                        </div>
-                    </div> --}}
                     <!-- MENTOR  -->
 
                     <!-- MENTOR  -->
@@ -471,7 +471,7 @@
                 
                     <div class="details">
                         <div>
-                            <h6>Public Live demos</h6>
+                            <h6>Public live demos</h6>
                             <p>Teams present their creations in a 5 minute live demo open to the public</p>
                         </div>
                     </div>
