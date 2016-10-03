@@ -383,7 +383,7 @@
                     <div class="details">
                         <div>
                             <h6>Status update per team</h6>
-                            <p>Teams share progress, problems &amp; plans</p>
+                            <p>Teams share progress, problems &amp; plans for their projects</p>
                         </div>
                     </div>
                 </div>
@@ -454,7 +454,7 @@
                 
                     <div class="details">
                         <div>
-                            <h6>* Lunch *</h6>
+                            <h6>Lunch</h6>
                             <p>Served by Berlinka</p>
                         </div>
                     </div>
@@ -479,7 +479,6 @@
                     <div class="details">
                         <div>
                             <h6>Final sprint</h6>
-                            <p>Teams are actively supported by mentors</p>
                         </div>
                     </div>
                 </div>
