@@ -328,7 +328,15 @@
                     <div class="details">
                         <div>
                             <h6>Welcome &amp; introduction</h6>
-                            <h6>Lightning talks</h6>
+                            <h6>Lightning talks (in English<sup>*</sup>)</h6> 
+                            <ul>
+                                <li>Amalia Filip</li>
+                                <li>Alexandra Kusá</li>
+                                <li>Dušan Buran</li>
+                                <li>Dag Hensten</li>
+                                <li>Igor Rjabinin</li>
+                            </ul>
+                            &nbsp;
                             <h6>Team formation</h6>
                         </div>
                     </div>
