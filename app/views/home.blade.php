@@ -393,6 +393,29 @@
                 <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
+                            <h6></h6>
+                        </div>
+                    </div>
+                
+                    <div class="time">
+                        <div>
+                            <h6>00.00</h6>
+                        </div>
+                    </div>
+                
+                    <div class="details">
+                        <div>
+                            <h6>Berlinka closes</h6>
+                            <p>Time to get some healthy sleep ;)</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- schedule list -->
+
+                <!-- schedule list -->
+                <div class="sixteen columns schedule-list odd">
+                    <div class="day">
+                        <div>
                             <h6>Saturday</h6>
                         </div>
                     </div>
@@ -415,7 +438,7 @@
                 </div>
                 <!-- schedule list -->
 
-                <div class="sixteen columns schedule-list odd">
+                <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -439,7 +462,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list even">
+                <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -463,7 +486,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list odd">
+                <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -487,7 +510,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list even">
+                <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -513,7 +536,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list odd">
+                <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
                             <h6></h6>
