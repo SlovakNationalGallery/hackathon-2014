@@ -558,7 +558,16 @@
                     </div>
                 </div>
                 <!-- schedule list -->
+                <div class="sixteen columns">
+                    <p>
+                        <sup>*</sup> Talks and workshops will be in English. If this creates a language barrier for anyone, we will do our best to provide translation on the spot. All group collaboration in teams can take place in any language you like.
+                    </p>
+                    <p>
+                        <sup>*</sup> Prednášky a workshopy budú prebiehať v anglickom jazyku. Pre účastníkov, ktorí nerozumejú po anglicky, sa budeme snažiť zabezpečiť čo najlepší preklad na mieste. Práca v rámci tímu môže samozrejme prebiehať v ľubovoľnom jazyku.
+                    </p>
+                </div>
             </div>
+            
         </section>
         <!-- MODULE : PROGRAM -->
 
