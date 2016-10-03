@@ -685,6 +685,18 @@
                 <div class="sixteen columns">
                     <h3>Partners</h3>
                 </div>
+                <div class="eight columns">                    
+                    <p>Názov projektu: <br>   
+                    Umenie, zbierky a dáta bez hraníc</p>
+                    <p>Projekt je financovaný z grantov Islandu, Lichtenštajnska a Nórska prostredníctvom Finančného mechanizmu EHP a zo štátneho rozpočtu Slovenskej republiky.</p>
+                </div>
+                <div class="eight columns">
+                    
+                    <p>Prijímateľ grantu: <br>
+                    Slovenská národná galéria
+                    </p>
+                    <p>Výška projektového grantu: 92 412 €</p>
+                </div>
                 <div class="sixteen columns text-center">
                     <img src="images/partners.jpg" class="partners" alt="partners">
                 </div>
