@@ -631,25 +631,6 @@
                 <div class="sixteen columns text-center">
                     <img src="images/partners.jpg" class="partners" alt="partners">
                 </div>
-                {{-- 
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="http://eeagrants.org/" target="_blank" class="noborder"><img src="img/partners/eea-grants.png" alt="logo"/></a>
-                </div>
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="https://www.nethemba.com/" target="_blank" class="noborder"><img src="img/partners/nethemba.png" alt="logo"/></a>
-                </div>
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="http://www.opis.gov.sk/" target="_blank" class="noborder"><img src="img/partners/opis.png" alt="logo"/></a>
-                </div>
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="http://www.kvant.sk/" target="_blank" class="noborder"><img src="img/partners/kvant.png" alt="logo"/></a>
-                </div>
-                <div class="clear" style="clear: both"></div>
-                <div class="sixteen columns">
-                    <h5>Sprievodný program v parterstve s <a href="http://www.nextfestival.sk">festivalom NEXT</a></h5>       
-                    <p>&nbsp;</p>         
-                </div>
-                --}}
             </div>
         </div>
 
