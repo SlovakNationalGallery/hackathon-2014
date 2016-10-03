@@ -429,10 +429,10 @@
                 
                     <div class="details">
                         <div>
-                            <h6>Workshops</h6>
-                            <p>Intro to collaboration via Git for Designers and Developers</p>
-                            <p>Using the Webumenia Elastic Search API</p>
-                            <p>Using the Nasjonalmuseet content API</p>
+                            <h6>Workshops (in English<sup>*</sup>)</h6>
+                            <p>Seeing Computationally using OpenCV &mdash; by Matej Fandl</p>
+                            <p>Using the Nasjonalmuseet and Webumenia APIs &mdash; by Dag Hensten and Igor Rjabinin</p>
+                            <p>Collaboration via Git for Designers and Developers &mdash; by Philo van Kemenade</p>
                         </div>
                     </div>
                 </div>
