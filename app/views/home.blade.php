@@ -125,6 +125,7 @@
                             <li><a href="#schedule">Programme</a></li>
                             <li><a href="#awards">Awards</a></li>
                             <li><a href="#practical">Practical info</a></li>
+                            <li><a href="#previous">Previous edition</a></li>
                             <li><a href="#partners">Partners</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
@@ -328,7 +329,15 @@
                     <div class="details">
                         <div>
                             <h6>Welcome &amp; introduction</h6>
-                            <h6>Lightning talks</h6>
+                            <h6>Lightning talks (in English<sup>*</sup>)</h6> 
+                            <ul>
+                                <li>Amalia Filip</li>
+                                <li>Alexandra Kusá</li>
+                                <li>Dušan Buran</li>
+                                <li>Dag Hensten</li>
+                                <li>Igor Rjabinin</li>
+                            </ul>
+                            &nbsp;
                             <h6>Team formation</h6>
                         </div>
                     </div>
@@ -375,7 +384,7 @@
                     <div class="details">
                         <div>
                             <h6>Status update per team</h6>
-                            <p>Teams share progress, problems &amp; plans</p>
+                            <p>Teams share progress, problems &amp; plans for their projects</p>
                         </div>
                     </div>
                 </div>
@@ -383,6 +392,29 @@
 
                 <!-- schedule list -->
                 <div class="sixteen columns schedule-list even">
+                    <div class="day">
+                        <div>
+                            <h6></h6>
+                        </div>
+                    </div>
+                
+                    <div class="time">
+                        <div>
+                            <h6>00.00</h6>
+                        </div>
+                    </div>
+                
+                    <div class="details">
+                        <div>
+                            <h6>Berlinka closes</h6>
+                            <p>Time to get some healthy sleep ;)</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- schedule list -->
+
+                <!-- schedule list -->
+                <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
                             <h6>Saturday</h6>
@@ -398,16 +430,16 @@
                 
                     <div class="details">
                         <div>
-                            <h6>Workshops</h6>
-                            <p>Intro to collaboration via Git for Designers and Developers</p>
-                            <p>Using the Webumenia Elastic Search API</p>
-                            <p>Using the Nasjonalmuseet content API</p>
+                            <h6>Workshops (in English<sup>*</sup>)</h6>
+                            <p>Seeing Computationally using OpenCV &mdash; by Matej Fandl</p>
+                            <p>Using the Nasjonalmuseet and Webumenia APIs &mdash; by Dag Hensten and Igor Rjabinin</p>
+                            <p>Collaboration via Git for Designers and Developers &mdash; by Philo van Kemenade</p>
                         </div>
                     </div>
                 </div>
                 <!-- schedule list -->
 
-                <div class="sixteen columns schedule-list odd">
+                <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -423,7 +455,7 @@
                 
                     <div class="details">
                         <div>
-                            <h6>* Lunch *</h6>
+                            <h6>Lunch</h6>
                             <p>Served by Berlinka</p>
                         </div>
                     </div>
@@ -431,7 +463,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list even">
+                <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -448,14 +480,13 @@
                     <div class="details">
                         <div>
                             <h6>Final sprint</h6>
-                            <p>Teams are actively supported by mentors</p>
                         </div>
                     </div>
                 </div>
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list odd">
+                <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -479,7 +510,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list even">
+                <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -505,7 +536,7 @@
                 <!-- schedule list -->
 
                 <!-- schedule list -->
-                <div class="sixteen columns schedule-list odd">
+                <div class="sixteen columns schedule-list even">
                     <div class="day">
                         <div>
                             <h6></h6>
@@ -527,7 +558,16 @@
                     </div>
                 </div>
                 <!-- schedule list -->
+                <div class="sixteen columns">
+                    <p>
+                        <sup>*</sup> Talks and workshops will be in English. If this creates a language barrier for anyone, we will do our best to provide translation on the spot. All group collaboration in teams can take place in any language you like.
+                    </p>
+                    <p>
+                        <sup>*</sup> Prednášky a workshopy budú prebiehať v anglickom jazyku. Pre účastníkov, ktorí nerozumejú po anglicky, sa budeme snažiť zabezpečiť čo najlepší preklad na mieste. Práca v rámci tímu môže samozrejme prebiehať v ľubovoľnom jazyku.
+                    </p>
+                </div>
             </div>
+            
         </section>
         <!-- MODULE : PROGRAM -->
 
@@ -597,8 +637,8 @@
                 </div>
             </div>
         </section>
-        <!-- MODULE : AWARDS --> 
-
+        <!-- MODULE : AWARDS -->         
+                
         
                 
         <!-- MODULE : PRAKTICKE INFORMACIE -->
@@ -621,6 +661,23 @@
         </section>
         <!-- MODULE : PRAKTICKE INFORMACIE --> 
 
+        <!-- MODULE : PREVIOUS -->
+        <div class="topsponsor-section" id="previous">
+            <div class="container">
+                <div class="sixteen columns">
+                    <h3>Previous Edition</h3>
+                    <p>The last time we organised a hackathon like this was in 2014. Watch the video below to get an idea of the event, or check out <a href="http://hackathon.sng.sk/2014">photos and projects developed during the event</a>.</p>
+                    <!-- ABOUT - video -->
+                    <div class="about-video">
+                        <div class="video-container">
+                            <iframe src="//www.youtube.com/embed/nJvzVrzBJaU?autohide=1&showinfo=0&rel=0&theme=light&vq=hd720"  allowfullscreen></iframe>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+        <!-- MODULE : PREVIOUS -->
+
         <!-- MODULE : PARTNERS -->
         
         <div class="topsponsor-section" id="partners">
@@ -628,28 +685,21 @@
                 <div class="sixteen columns">
                     <h3>Partners</h3>
                 </div>
+                <div class="eight columns">                    
+                    <p>Názov projektu: <br>   
+                    Umenie, zbierky a dáta bez hraníc</p>
+                    <p>Projekt je financovaný z grantov Islandu, Lichtenštajnska a Nórska prostredníctvom Finančného mechanizmu EHP a zo štátneho rozpočtu Slovenskej republiky.</p>
+                </div>
+                <div class="eight columns">
+                    
+                    <p>Prijímateľ grantu: <br>
+                    Slovenská národná galéria
+                    </p>
+                    <p>Výška projektového grantu: 92 412 €</p>
+                </div>
                 <div class="sixteen columns text-center">
                     <img src="images/partners.jpg" class="partners" alt="partners">
                 </div>
-                {{-- 
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="http://eeagrants.org/" target="_blank" class="noborder"><img src="img/partners/eea-grants.png" alt="logo"/></a>
-                </div>
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="https://www.nethemba.com/" target="_blank" class="noborder"><img src="img/partners/nethemba.png" alt="logo"/></a>
-                </div>
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="http://www.opis.gov.sk/" target="_blank" class="noborder"><img src="img/partners/opis.png" alt="logo"/></a>
-                </div>
-                <div class="four columns topsponsor-single-withtext">
-                    <a href="http://www.kvant.sk/" target="_blank" class="noborder"><img src="img/partners/kvant.png" alt="logo"/></a>
-                </div>
-                <div class="clear" style="clear: both"></div>
-                <div class="sixteen columns">
-                    <h5>Sprievodný program v parterstve s <a href="http://www.nextfestival.sk">festivalom NEXT</a></h5>       
-                    <p>&nbsp;</p>         
-                </div>
-                --}}
             </div>
         </div>
 
