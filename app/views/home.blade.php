@@ -125,6 +125,7 @@
                             <li><a href="#schedule">Programme</a></li>
                             <li><a href="#awards">Awards</a></li>
                             <li><a href="#practical">Practical info</a></li>
+                            <li><a href="#previous">Previous edition</a></li>
                             <li><a href="#partners">Partners</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
@@ -636,8 +637,8 @@
                 </div>
             </div>
         </section>
-        <!-- MODULE : AWARDS --> 
-
+        <!-- MODULE : AWARDS -->         
+                
         
                 
         <!-- MODULE : PRAKTICKE INFORMACIE -->
@@ -659,6 +660,23 @@
             </div>
         </section>
         <!-- MODULE : PRAKTICKE INFORMACIE --> 
+
+        <!-- MODULE : PREVIOUS -->
+        <div class="topsponsor-section" id="previous">
+            <div class="container">
+                <div class="sixteen columns">
+                    <h3>Previous Edition</h3>
+                    <p>The last time we organised a hackathon like this was in 2014. Watch the video below to get an idea of the event, or check out <a href="http://hackathon.sng.sk/2014">photos and projects developed during the event</a>.</p>
+                    <!-- ABOUT - video -->
+                    <div class="about-video">
+                        <div class="video-container">
+                            <iframe src="//www.youtube.com/embed/nJvzVrzBJaU?autohide=1&showinfo=0&rel=0&theme=light&vq=hd720"  allowfullscreen></iframe>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+        <!-- MODULE : PREVIOUS -->
 
         <!-- MODULE : PARTNERS -->
         
