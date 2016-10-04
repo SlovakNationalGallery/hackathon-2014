@@ -243,7 +243,7 @@
         <section id="mentors" class="section-container">
             <div class="container">
                 <div class="sixteen columns" data-i18n="[html]section-mentors-intro">
-                    <h3>Mentors</h3>              
+                    <h3>Mentors</h3>
                     <p>During the hackathon teams will be supported by an international selection of experienced mentors</p>
                 </div>
                 <div class="container">
@@ -338,14 +338,14 @@
             <div class="container">
                
                 <div class="sixteen columns">
-                    <h3>Program</h3>              
+                    <h3 data-i18n="section-schedule-title">Program</h3>              
                 </div>
 
                 <!-- schedule list -->
                 <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
-                            <h6>Friday</h6>
+                            <h6 data-i18n="section-schedule-friday">Friday</h6>
                         </div>
                     </div>
                 
@@ -356,7 +356,7 @@
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-fri17">
                             <h6>Welcome &amp; introduction</h6>
                             <h6>Lightning talks (in English<sup>*</sup>)</h6> 
                             <ul>
@@ -388,9 +388,8 @@
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-fri19">
                             <h6>Brainstorming in teams</h6>
-                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -411,7 +410,7 @@
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-fri21">
                             <h6>Status update per team</h6>
                             <p>Teams share progress, problems &amp; plans for their projects</p>
                         </div>
@@ -434,7 +433,7 @@
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-fri00">
                             <h6>Berlinka closes</h6>
                             <p>Time to get some healthy sleep ;)</p>
                         </div>
@@ -446,12 +445,12 @@
                 <div class="sixteen columns schedule-list odd">
                     <div class="day">
                         <div>
-                            <h6>Saturday</h6>
+                            <h6 data-i18n="section-schedule-saturday">Saturday</h6>
                         </div>
                     </div>
                     
                     <div class="time">
-                        <div>
+                        <div data-i18n="[html]section-schedule-sat10">
                             <h6>10.00</h6>
                             <p>1 hour</p>
                         </div>
@@ -478,12 +477,11 @@
                     <div class="time">
                         <div>
                             <h6>13.00</h6>
-                            <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-sat13">
                             <h6>Lunch</h6>
                             <p>Served by Berlinka</p>
                         </div>
@@ -502,12 +500,11 @@
                     <div class="time">
                         <div>
                             <h6>14.00</h6>
-                            <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-sat14">
                             <h6>Final sprint</h6>
                         </div>
                     </div>
@@ -525,12 +522,11 @@
                     <div class="time">
                         <div>
                             <h6>19.00</h6>
-                            <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-sat19">
                             <h6>Public live demos</h6>
                             <p>Teams present their creations in a 5 minute live demo open to the public</p>
                         </div>
@@ -549,12 +545,11 @@
                     <div class="time">
                         <div>
                             <h6>20.00</h6>
-                            <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-sat20">
                             <h6>Awards</h6>
                             <p>Best Prototype</p>
                             <p>Most Original Concept</p>
@@ -575,12 +570,11 @@
                     <div class="time">
                         <div>
                             <h6>21.00</h6>
-                            <p></p>
                         </div>
                     </div>
                 
                     <div class="details">
-                        <div>
+                        <div data-i18n="[html]section-schedule-sat21">
                             <h6>After Party</h6>
                             <p>Afterparty: <a href="https://soundcloud.com/cidrim">Cid Rim Live</a> (LuckyMe, Affine Records/AT)</p>
                         </div>
@@ -660,7 +654,6 @@
                         <div class="statistic-icon"><i class="icon-pricetags"></i></div>
                         <div class="statistic-desc">
                         <h3>and more...</h3>
-                        <p></p>
                         </div>
                     </div>
                 </div>

@@ -8,6 +8,20 @@
 		"section-mentors-dusan":"<h5>Dušan Buran</h5><p class='job-position'>curator</p> <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>",
 		"section-mentors-nasjonalmuseet":"<h5>Nasjonalmuseet</h5><p class='job-position'>digital collection team</p><p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href='http://samling.nasjonalmuseet.no/en/'>samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>",
 		"section-mentors-lab":"<h5>lab.SNG</h5><p class='job-position'>digital R&amp;D</p> <p><a href='http://lab.sng.sk/'>lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href='http://www.webumenia.sk/'>webumenia.sk</a> via the Elastic Search API, help teams collaborate via Git and open up other projects that lab has <a href='https://github.com/SlovakNationalGallery'>open-sourced</a>.</p>",
+		"section-schedule-title":"Program",
+		"section-schedule-friday":"Friday",
+		"section-schedule-saturday":"Saturday",
+		"section-schedule-fri17": "<h6>Welcome &amp; introduction</h6><h6>Lightning talks (in English<sup>*</sup>)</h6> <ul><li>Amalia Filip</li><li>Alexandra Kusá</li><li>Dušan Buran</li><li>Dag Hensten</li><li>Igor Rjabinin</li></ul>&nbsp;<h6>Team formation</h6>",
+		"section-schedule-fri19": "<h6>Brainstorming in teams</h6>",
+		"section-schedule-fri21": "<h6>Status update per team</h6><p>Teams share progress, problems &amp; plans for their projects</p>",
+		"section-schedule-fri00": "<h6>Berlinka closes</h6><p>Time to get some healthy sleep ;)</p>",
+		"section-schedule-sat10": "<h6>10.00</h6><p>1 hour</p>",
+		"section-schedule-sat13": "<h6>Lunch</h6><p>Served by Berlinka</p>",
+		"section-schedule-sat14": "<h6>Final sprint</h6>",
+		"section-schedule-sat19": "<h6>Public live demos</h6><p>Teams present their creations in a 5 minute live demo open to the public</p>",
+		"section-schedule-sat20": "<h6>Awards</h6><p>Best Prototype</p><p>Most Original Concept</p><p>Best Presentation</p>",
+		"section-schedule-sat21": "<h6>After Party</h6><p>Afterparty: <a href='https://soundcloud.com/cidrim'>Cid Rim Live</a> (LuckyMe, Affine Records/AT)</p>"
+
 	},
 	"sk" : {
 		"section-about-invitation": "<h2>Pozývame Vás!</h2><p class='lead'>Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p><p class='lead'>Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p><p class='lead'>The event is part of 'Art, collections and data across borders' project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p><a href='https://labsng.typeform.com/to/btGeOi' class='button-signup' target='_blank'>Registrations open until 5.10.2016</a>",
@@ -18,5 +32,19 @@
 		"section-mentors-dusan":"<h5>Dušan Buran</h5><p class='job-position'>curator</p> <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>",
 		"section-mentors-nasjonalmuseet":"<h5>Nasjonalmuseet</h5><p class='job-position'>digital collection team</p><p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href='http://samling.nasjonalmuseet.no/en/'>samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>",
 		"section-mentors-lab":"<h5>lab.SNG</h5><p class='job-position'>digital R&amp;D</p> <p><a href='http://lab.sng.sk/'>lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href='http://www.webumenia.sk/'>webumenia.sk</a> via the Elastic Search API, help teams collaborate via Git and open up other projects that lab has <a href='https://github.com/SlovakNationalGallery'>open-sourced</a>.</p>",
+		"section-schedule-title":"Program",
+		"section-schedule-friday":"Friday",
+		"section-schedule-saturday":"Saturday",
+		"section-schedule-fri17": "<h6>Welcome &amp; introduction</h6><h6>Lightning talks (in English<sup>*</sup>)</h6> <ul><li>Amalia Filip</li><li>Alexandra Kusá</li><li>Dušan Buran</li><li>Dag Hensten</li><li>Igor Rjabinin</li></ul>&nbsp;<h6>Team formation</h6>",
+		"section-schedule-fri19": "<h6>Brainstorming in teams</h6>",
+		"section-schedule-fri21": "<h6>Status update per team</h6><p>Teams share progress, problems &amp; plans for their projects</p>",
+		"section-schedule-fri00": "<h6>Berlinka closes</h6><p>Time to get some healthy sleep ;)</p>",
+		"section-schedule-sat10": "<h6>10.00</h6><p>1 hour</p>",
+		"section-schedule-sat13": "<h6>Lunch</h6><p>Served by Berlinka</p>",
+		"section-schedule-sat14": "<h6>Final sprint</h6>",
+		"section-schedule-sat19": "<h6>Public live demos</h6><p>Teams present their creations in a 5 minute live demo open to the public</p>",
+		"section-schedule-sat20": "<h6>Awards</h6><p>Best Prototype</p><p>Most Original Concept</p><p>Best Presentation</p>",
+		"section-schedule-sat21": "<h6>After Party</h6><p>Afterparty: <a href='https://soundcloud.com/cidrim'>Cid Rim Live</a> (LuckyMe, Affine Records/AT)</p>"
 	}
 }
+
