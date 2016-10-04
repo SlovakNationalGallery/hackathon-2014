@@ -242,7 +242,7 @@
         <!-- MODULE : MENTORS -->
         <section id="mentors" class="section-container">
             <div class="container">
-                <div class="sixteen columns">
+                <div class="sixteen columns" data-i18n="[html]section-mentors-intro">
                     <h3>Mentors</h3>              
                     <p>During the hackathon teams will be supported by an international selection of experienced mentors</p>
                 </div>
@@ -250,7 +250,7 @@
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/amalia-filip.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
+                        <div class="speaker-description" data-i18n="[html]section-mentors-amalia">
                             <h5>Amalia Filip</h5>
                             <p class="job-position">VR researcher</p> 
                             <p>Amalia Roxana Filip aka <a href="http://restlessnest.org/">chaosdroid</a> plays mostly with sound, live visuals and graphics. Her latest research topic is VR</p>
@@ -261,7 +261,7 @@
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/matej-fandl.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
+                        <div class="speaker-description" data-i18n="[html]section-mentors-matej">
                             <h5>Matej Fandl</h5>
                             <p class="job-position">Creative coder</p> 
                             <p>Matej has a keen interest in artificial intelligence, natural interfaces, multi-agent modeling and computer vision. He uses his technical skills to create captivating online and offline experience at <a href="http://www.mladypes.sk/">Mladý pes</a>.</p>
@@ -272,7 +272,7 @@
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/alexandra-kusa.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
+                        <div class="speaker-description" data-i18n="[html]section-mentors-alexandra">
                             <h5>Alexandra Kusá</h5>
                             <p class="job-position">general director SNG</p> 
                             <p>Besides being a curator and General Director at SNG, Alexandra lectures at the Department of History of art at The Faculty of Philosophy of Comenius University. She devotes herself to the art of 20. century and its role in other disciplines.</p>
@@ -285,7 +285,7 @@
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/dusan-buran.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
+                        <div class="speaker-description" data-i18n="[html]section-mentors-dusan">
                             <h5>Dušan Buran</h5>
                             <p class="job-position">curator</p> 
                             <p>Dušan is the head curator of Old Art Collections at the Slovak National Gallery. He specializes in medieval art and sculpture, partly also art and architecture of the 20th century and the issues of museology and heritage preservation.</p>
@@ -296,7 +296,7 @@
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/nasjonalmuseet.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
+                        <div class="speaker-description" data-i18n="[html]section-mentors-nasjonalmuseet">
                             <h5>Nasjonalmuseet</h5>
                             <p class="job-position">digital collection team</p>
                             <p>Magnus Bognerud and Gro Benedicte Pedersen provide insights to the Nasjonalmuseet collections and metadata. Dag Hensten is the developer of <a href="http://samling.nasjonalmuseet.no/en/">samling.nasjonalmuseet.no</a> and will provide methods and tips on how to get the most out of the DigitaltMuseum API.</p>
@@ -307,7 +307,7 @@
                     <!-- MENTOR  -->
                     <div class="one-third column speaker-profile">
                         <div class="speaker-thumb"><img src="img/mentors/lab_sng.jpg" alt="speaker"/></div> 
-                        <div class="speaker-description">
+                        <div class="speaker-description" data-i18n="[html]section-mentors-lab">
                             <h5>lab.SNG</h5>
                             <p class="job-position">digital R&amp;D</p> 
                             <p><a href="http://lab.sng.sk/">lab.SNG</a> members Igor Rjabinin and Philo van Kemenade will help you to use data and content from <a href="http://www.webumenia.sk/">webumenia.sk</a> via the Elastic Search API, help teams collaborate via Git and open up other projects that lab has <a href="https://github.com/SlovakNationalGallery">open-sourced</a>.</p>
