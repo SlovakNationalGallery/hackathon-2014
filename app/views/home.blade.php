@@ -631,28 +631,28 @@
             
             <div id="statisticsection">
                 <div class="container">
-                    <div class="sixteen columns">
+                    <div class="sixteen columns" data-i18n="[html]section-awards-intro">
                         <h3>Awards</h3>
                         <p>Winners will be awarded in the categories: <strong>Best Prototype</strong>, <strong>Most Original Concept</strong> and <strong>Best Presentation</strong></p>
                     </div>
-                    <div class="one-third column statistic">
+                    <div class="one-third column statistic" data-i18n="[html]section-awards-column1">
                         <div class="statistic-icon"><i class="icon-picture"></i></div>
                         <div class="statistic-desc">
-                        <h3>Printed reproductions</h3>
-                        <p>High quality in house prints from SNG</p>
+                            <h3>Printed reproductions</h3>
+                            <p>High quality in house prints from SNG</p>
                         </div>
                     </div>
-                    <div class="one-third column statistic">
+                    <div class="one-third column statistic" data-i18n="[html]section-awards-column2">
                         <div class="statistic-icon"><i class="icon-notebook"></i></div>
                         <div class="statistic-desc">
                             <h3>Publications &amp; merchandise</h3>
                             <p>From SNG &amp; Nasjonalmuseet</p>
                         </div>
                     </div>
-                    <div class="one-third column statistic">
+                    <div class="one-third column statistic" data-i18n="[html]section-awards-column3">
                         <div class="statistic-icon"><i class="icon-pricetags"></i></div>
                         <div class="statistic-desc">
-                        <h3>and more...</h3>
+                            <h3>and more...</h3>
                         </div>
                     </div>
                 </div>

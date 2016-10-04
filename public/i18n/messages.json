@@ -23,8 +23,11 @@
 		"section-schedule-sat21": "<h6>After Party</h6><p>Afterparty: <a href='https://soundcloud.com/cidrim'>Cid Rim Live</a> (LuckyMe, Affine Records/AT)</p>",
 		"section-resources-intro": "<h4>Resources</h4><p>Besides <strong>delicious food &amp; beverages</strong> and <strong>super fast WiFi</strong>, we will provide the following media and tech resources:</p>",
 		"section-resources-column1": "<ul class='list-square'><li>Nasjonalmuseet - Solr Index As Api</li><li>Webumenia - Open Elastic Search Api</li><li>Artist Data<ul><li>Lexicon Data in RDF (Norwegian Artists)</li><li><a Href='http://nkl.snl.no/'>nkl.snl.no</a></li><li><a Href='http://www.getty.edu/research/tools/vocabularies/ulan/'>Ulan</a></li></ul></li></ul>",
-		"section-resources-column2": "<ul class='list-square'><li>Open source audioguide</li><li>3d Visualisations of SNG Reconstruction</li></ul>"
-
+		"section-resources-column2": "<ul class='list-square'><li>Open source audioguide</li><li>3d Visualisations of SNG Reconstruction</li></ul>",
+		"section-awards-intro": "<h3>Awards</h3><p>Winners will be awarded in the categories: <strong>Best Prototype</strong>, <strong>Most Original Concept</strong> and <strong>Best Presentation</strong></p>",
+		"section-awards-column1": "<div class='statistic-icon'><i class='icon-picture'></i></div><div class='statistic-desc'><h3>Printed reproductions</h3><p>High quality in house prints from SNG</p></div>",
+		"section-awards-column2": "<div class='statistic-icon'><i class='icon-notebook'></i></div><div class='statistic-desc'><h3>Publications &amp; merchandise</h3><p>From SNG &amp; Nasjonalmuseet</p></div>",
+		"section-awards-column3": "<div class='statistic-icon'><i class='icon-pricetags'></i></div><div class='statistic-desc'><h3>and more...</h3></div>"
 	},
 	"sk" : {
 		"section-about-invitation": "<h2>Pozývame Vás!</h2><p class='lead'>Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p><p class='lead'>Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p><p class='lead'>The event is part of 'Art, collections and data across borders' project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p><a href='https://labsng.typeform.com/to/btGeOi' class='button-signup' target='_blank'>Registrations open until 5.10.2016</a>",
@@ -50,7 +53,10 @@
 		"section-schedule-sat21": "<h6>After Party</h6><p>Afterparty: <a href='https://soundcloud.com/cidrim'>Cid Rim Live</a> (LuckyMe, Affine Records/AT)</p>",
 		"section-resources-intro": "<h4>Resources</h4><p>Besides <strong>delicious food &amp; beverages</strong> and <strong>super fast WiFi</strong>, we will provide the following media and tech resources:</p>",
 		"section-resources-column1": "<ul class='list-square'><li>Nasjonalmuseet - Solr Index As Api</li><li>Webumenia - Open Elastic Search Api</li><li>Artist Data<ul><li>Lexicon Data in RDF (Norwegian Artists)</li><li><a Href='http://nkl.snl.no/'>nkl.snl.no</a></li><li><a Href='http://www.getty.edu/research/tools/vocabularies/ulan/'>Ulan</a></li></ul></li></ul>",
-		"section-resources-column2": "<ul class='list-square'><li>Open source audioguide</li><li>3d Visualisations of SNG Reconstruction</li></ul>"
+		"section-resources-column2": "<ul class='list-square'><li>Open source audioguide</li><li>3d Visualisations of SNG Reconstruction</li></ul>",
+		"section-awards-intro": "<h3>Awards</h3><p>Winners will be awarded in the categories: <strong>Best Prototype</strong>, <strong>Most Original Concept</strong> and <strong>Best Presentation</strong></p>",
+		"section-awards-column1": "<div class='statistic-icon'><i class='icon-picture'></i></div><div class='statistic-desc'><h3>Printed reproductions</h3><p>High quality in house prints from SNG</p></div>",
+		"section-awards-column2": "<div class='statistic-icon'><i class='icon-notebook'></i></div><div class='statistic-desc'><h3>Publications &amp; merchandise</h3><p>From SNG &amp; Nasjonalmuseet</p></div>",
+		"section-awards-column3": "<div class='statistic-icon'><i class='icon-pricetags'></i></div><div class='statistic-desc'><h3>and more...</h3></div>"
 	}
 }
-
