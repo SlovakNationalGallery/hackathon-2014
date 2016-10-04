@@ -65,6 +65,12 @@
     <!-- ========= 
     JS
     ========= -->
+    <!-- jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
+    <!-- jQuery.i18n -->
+    <script src="js/jquery.i18n/jquery.i18n.js"></script>
+    <script src="js/jquery.i18n/jquery.i18n.messagestore.js"></script>
+    <script src="js/languageswitcher.js"></script>
 
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -82,6 +88,24 @@
     </script>
 
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+
+    <script>
+        $(document).ready(function() {
+            // LanguageSwitcher initialisation
+            $('.ui-langswitch.en').click( function() {
+                LanguageSwitcher.switchLanguage("body", "en");
+                $('.ui-langswitch.en').addClass('selected');
+                $('.ui-langswitch.sk').removeClass('selected');
+            } );
+            $('.ui-langswitch.sk').click( function() {
+                LanguageSwitcher.switchLanguage("body", "sk");
+                $('.ui-langswitch.sk').addClass('selected');
+                $('.ui-langswitch.en').removeClass('selected');
+            } );
+            // trigger default language
+            $('.ui-langswitch.'+LanguageSwitcher.defaultLang).click();
+        });
+    </script>
    
 </head>
 
@@ -115,6 +139,11 @@
             <nav>
                 <div class="container">
                     <div class="sixteen columns">
+                        <!-- NAVIGATION - Language Switch -->   
+                        <div class="languageSwitch">
+                            <div><a role="button" href="#" class="ui-langswitch sk">SK</a></div>
+                            <div><a role="button" href="#" class="ui-langswitch en">EN</a></div>
+                        </div>
                         <!-- NAVIGATION - Sign up -->   
                         <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Register now!</a></div>
                         <!-- NAVIGATION - list -->  
@@ -125,7 +154,7 @@
                             <li><a href="#schedule">Programme</a></li>
                             <li><a href="#awards">Awards</a></li>
                             <li><a href="#practical">Practical info</a></li>
-                            <li><a href="#previous">Previous edition</a></li>
+                            <li><a href="#previous">Previously</a></li>
                             <li><a href="#partners">Partners</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
@@ -200,7 +229,7 @@
         <section id="about" class="section-container">
             <div class="container">
                 <div id="invitation" class="sixteen columns">
-                    <h2>You are invited!</h2>
+                    <h2 data-i18n="about-title-invitation">You are invited!</h2>
                     <p class="lead">Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
                     <p class="lead">Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
                     <p class="lead">The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
@@ -726,7 +755,6 @@
     ========= -->
 
     <!-- Retina Display -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
     <script src="js/retina.js"></script>
 
     <!-- magnific-popup  -->
