@@ -149,13 +149,13 @@
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#mentors">Mentors</a></li>
-                            <li><a href="#schedule">Programme</a></li>
-                            <li><a href="#awards">Awards</a></li>
-                            <li><a href="#practical">Practical info</a></li>
-                            <li><a href="#previous">Previously</a></li>
-                            <li><a href="#partners">Partners</a></li>
+                            <li><a href="#about" data-i18n="nav-about">About</a></li>
+                            <li><a href="#mentors" data-i18n="nav-mentors">Mentors</a></li>
+                            <li><a href="#schedule" data-i18n="nav-schedule">Programme</a></li>
+                            <li><a href="#awards" data-i18n="nav-awards">Awards</a></li>
+                            <li><a href="#practical" data-i18n="nav-practical">Practical info</a></li>
+                            <li><a href="#previous" data-i18n="nav-previous">Previously</a></li>
+                            <li><a href="#partners" data-i18n="nav-partners">Partners</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
                     </div>
