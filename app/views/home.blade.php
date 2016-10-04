@@ -665,7 +665,7 @@
         <!-- MODULE : PRAKTICKE INFORMACIE -->
         <section id="practical" class="section-container">
             <div class="container">
-                <div class="sixteen columns">
+                <div class="sixteen columns" data-i18n="[html]section-practical">
                     <h3>Practical information</h3>              
                     <ul class="list-square">
                         <li>You can sign up individually or as a team. We will make sure that individual participants' skills are complemented by other team members.</li>
@@ -686,8 +686,10 @@
         <div class="topsponsor-section" id="previous">
             <div class="container">
                 <div class="sixteen columns">
-                    <h3>Previous Edition</h3>
-                    <p>The last time we organised a hackathon like this was in 2014. Watch the video below to get an idea of the event, or check out <a href="http://hackathon.sng.sk/2014">photos and projects developed during the event</a>.</p>
+                    <div data-i18n="[html]section-previous">
+                        <h3>Previous Edition</h3>
+                        <p>The last time we organised a hackathon like this was in 2014. Watch the video below to get an idea of the event, or check out <a href="http://hackathon.sng.sk/2014">photos and projects developed during the event</a>.</p>
+                    </div>
                     <!-- ABOUT - video -->
                     <div class="about-video">
                         <div class="video-container">
@@ -703,16 +705,15 @@
         
         <div class="topsponsor-section" id="partners">
             <div class="container">
-                <div class="sixteen columns">
+                <div class="sixteen columns" data-i18n="[html]section-partners-intro">
                     <h3>Partners</h3>
                 </div>
-                <div class="eight columns">                    
+                <div class="eight columns" data-i18n="[html]section-partners-column1">
                     <p>Názov projektu: <br>   
                     Umenie, zbierky a dáta bez hraníc</p>
                     <p>Projekt je financovaný z grantov Islandu, Lichtenštajnska a Nórska prostredníctvom Finančného mechanizmu EHP a zo štátneho rozpočtu Slovenskej republiky.</p>
                 </div>
-                <div class="eight columns">
-                    
+                <div class="eight columns" data-i18n="[html]section-partners-column2">                    
                     <p>Prijímateľ grantu: <br>
                     Slovenská národná galéria
                     </p>
