@@ -116,7 +116,7 @@
                 <div class="container">
                     <div class="sixteen columns">
                         <!-- NAVIGATION - Sign up -->   
-                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Register now!</a></div>
+                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup disabled" target="_blank">Registration is closed</a></div>
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
@@ -187,7 +187,7 @@
                             &nbsp;
                             <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                             <br class="clear">
-                            <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Register now!</a>
+                            {{-- <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Register now!</a> --}}
                         </div>
 
                         <!-- HOMEPAGE - share -->
@@ -204,7 +204,7 @@
                     <p class="lead">Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
                     <p class="lead">Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
                     <p class="lead">The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
-                    <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank">Registrations open until 5.10.2016</a>
+                    <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup disabled" target="_blank">Registrations is closed</a>
                 </div>
             </div>
         </section>
