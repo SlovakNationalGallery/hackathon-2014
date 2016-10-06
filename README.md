@@ -12,6 +12,10 @@ install vendor requirements using:
 generate application key (for encoding) using:
 `php artisan key:generate`
 
+#### i18n
+
+We use [jquery.i18n](https://github.com/wikimedia/jquery.i18n) for translation. All translated texts are stored in `i18n/messages.json`. This file needs to be valid JSON and thus can't contain newlines in strings.
+
 ### License
 
 Developed by [SNG Lab](http://lab.sng.sk) at [Slovak National Gallery](http://www.sng.sk).
