@@ -99,7 +99,7 @@
     <!-- LOADING START -->  
     <div class="preloader">
         <div class="intro-type1 animated spin">
-            <img src="/img/loader.svg" height="140" width="140" alt="preloader">
+            <img src="img/loader.svg" height="140" width="140" alt="preloader">
         </div>    
     </div>
     <!-- LOADING START --> 
@@ -136,7 +136,7 @@
 
             <!-- MODULE : HOMEPAGE -->
             <section id="homepage">
-                <img src="/img/loader.svg" class="logo" alt="logo" />
+                <img src="img/loader.svg" class="logo" alt="logo" />
 
                 <canvas id="canv" onmousemove="canv_mousemove(event);" onmouseout="mx=-1;my=-1;">
                 </canvas>
