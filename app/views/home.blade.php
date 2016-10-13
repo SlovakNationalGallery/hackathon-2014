@@ -61,6 +61,7 @@
     <!-- Icons css -->  
     <link rel="stylesheet" href="css/icomoon.css">
     <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css" />
 
     <!-- ========= 
     JS
@@ -123,7 +124,7 @@
     <!-- LOADING START -->  
     <div class="preloader">
         <div class="intro-type1 animated spin">
-            <img src="/img/loader.svg" height="140" width="140" alt="preloader">
+            <img src="img/loader.svg" height="140" width="140" alt="preloader">
         </div>    
     </div>
     <!-- LOADING START --> 
@@ -145,17 +146,18 @@
                             <div><a role="button" href="#" class="ui-langswitch en">EN</a></div>
                         </div>
                         <!-- NAVIGATION - Sign up -->   
-                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank" data-i18n="btn-register-now">Register now!</a></div>
+                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup disabled" target="_blank">Registration is closed</a></div>
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
-                            <li><a href="#about" data-i18n="nav-about">About</a></li>
-                            <li><a href="#mentors" data-i18n="nav-mentors">Mentors</a></li>
-                            <li><a href="#schedule" data-i18n="nav-schedule">Programme</a></li>
-                            <li><a href="#awards" data-i18n="nav-awards">Awards</a></li>
-                            <li><a href="#practical" data-i18n="nav-practical">Practical info</a></li>
-                            <li><a href="#previous" data-i18n="nav-previous">Previously</a></li>
-                            <li><a href="#partners" data-i18n="nav-partners">Partners</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#showcase">Projects</a></li>
+                            <li><a href="#photos">Photos</a></li>
+                            <li><a href="#mentors">Mentors</a></li>
+                            <li><a href="#schedule">Programme</a></li>
+                            <li><a href="#awards">Awards</a></li>
+                            <li><a href="#previous">Previous edition</a></li>
+                            <li><a href="#partners">Partners</a></li>
                         </ul>   
                         <!-- NAVIGATION - list -->  
                     </div>
@@ -165,7 +167,7 @@
 
             <!-- MODULE : HOMEPAGE -->
             <section id="homepage">
-                <img src="/img/loader.svg" class="logo" alt="logo" />
+                <img src="img/loader.svg" class="logo" alt="logo" />
 
                 <canvas id="canv" onmousemove="canv_mousemove(event);" onmouseout="mx=-1;my=-1;">
                 </canvas>
@@ -183,40 +185,14 @@
                             <p class="white">ART &amp; DATA</p>
                         </div>
                         <!-- HOMEPAGE - bigtext -->
-                        <!-- HOMEPAGE - widget -->
-                        <div id="homepage-widget">
-                            <div id="event-widget">
-                                <div id="countdown">
-                                    <div id="countdown_dashboard">
-                                        <div class="dash days_dash">
-                                            <span class="dash-title">days</span>
-                                            <div class="digit digit-margin">0</div>
-                                            <div class="digit">0</div>
-                                        </div>
-                            
-                                        <div class="dash hours_dash">
-                                            <span class="dash-title">hours</span>
-                                            <div class="digit digit-margin">0</div>
-                                            <div class="digit">0</div>
-                                        </div>
-                            
-                                        <div class="dash minutes_dash">
-                                            <span class="dash-title">minutes</span>
-                                            <div class="digit digit-margin">0</div>
-                                            <div class="digit">0</div>
-                                        </div>
-                                    </div>
-                                </div> 
-                            </div>
-                        </div>
-                        <!-- HOMEPAGE - widget -->
+                        <br>
                         <!-- HOMEPAGE - share -->
                         <div class="shareon-container">
                             <div class="fb-like" data-href="http://hackathon.sng.sk/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
                             &nbsp;
                             <a href="https://twitter.com/share" class="twitter-share-button" data-count="true">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                             <br class="clear">
-                            <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank" data-i18n="btn-register-now">Register now!</a>
+                            {{-- <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank" data-i18n="btn-register-now">Register now!</a> --}}
                         </div>
 
                         <!-- HOMEPAGE - share -->
@@ -229,15 +205,106 @@
         <section id="about" class="section-container">
             <div class="container">
                 <div id="invitation" class="sixteen columns" data-i18n="[html]section-about-invitation">
-                    <h2>You are invited!</h2>
-                    <p class="lead">Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
-                    <p class="lead">Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
-                    <p class="lead">The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
-                    <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup" target="_blank" data-i18n="btn-registration-until">Registrations open until 5.10.2016</a>
+                    <h2>Thank you!</h2>
+                    <p class="lead">We did it! We got together with an amazing group of graphic designers, software artisans, UX specialists, back-end engineers, game designers, iOS developers and VR researchers to comine Data, Art and Technology. 6 teams worked tirelessly for 24 hours, blending custom software and design with data and content from the Slovak National Gallery and the Norwegian Nasjonal Museet. Scroll on to check out the winning teams and see all the results of the hackathon below.</p>
+                    <p class="lead">Thank you to all the participants, mentors and co-organisers for making the event a success!</p>
+                    <p>The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
                 </div>
             </div>
         </section>
         <!-- MODULE : ABOUT --> 
+
+        <!-- MODULE : SHOWCASE -->
+        <section id="showcase" class="section-container">
+            <div class="container">
+                <div class="sixteen columns " id="projects" data-i18n="[html]section-showcase-intro">
+                    <h3>Project Showcase</h3>
+                    <p>You can find more information and supporting material at <a href="https://hackdash.org/dashboards/artdata" class="" target="_blank">hackdash.org/dashboards/artdata</a>.</p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/klima.jpg" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Klima</span>
+                    <p>A mobile weather app that aims to be useful, be relatable and get people into galleries.
+                        <br>
+                        Winner: <span class="highlight">Best Prototype</span>
+                        <br>
+                        <a href="https://hackdash.org/projects/57f8ea15d9284f016c047578" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/vampart.png" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Vampart</span>
+                    <p>Ever wondered how likely you are to be a vampire? Now you can find out by tracing your face through art history.
+                        <br>
+                        Winner: <span class="highlight">Best Presentation</span>, <span class="highlight">Most Original Concept</span>
+                        <br>
+                        <a href="https://hackdash.org/projects/57f91de3d9284f016c047583" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/the-mirror.png" alt="topic"/>
+                    </div>
+                    <span class="topic-title">The-mirror</span>
+                    <p>Imagine you are walking in the gallery and one of the paintings starts to mirror your face and movements in its original art style.
+                        <br>
+                        Winner: <span class="highlight">Most Original Concept</span>
+                        <br>
+                        <a href="https://hackdash.org/projects/57f8dd4bd9284f016c047575" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/art-flies.jpg" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Art Flies</span>
+                    <p>An immersive art experience that places users in a magical land of virtual reality where art can be explored more closely.
+                        <br>
+                        <a href="https://hackdash.org/projects/57f91b6cd9284f016c047581" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/composition-analyzer.png" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Composition-analyzer</span>
+                    <p>Generate your poster composition based on the experience of the old Masters.
+                        <br>
+                        <a href="https://hackdash.org/projects/57f91b6cd9284f016c047581" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/photobooth.jpg" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Photobooth</span>
+                    <p>An interactive Photobooth installation, inspired by Artistic Style transfer algorithms.
+                        <br>
+                        <a href="https://hackdash.org/projects/57fcee5ed9284f016c0475a0" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+        <!-- MODULE : SHOWCASE -->
+
+        <!-- MODULE : PHOTOS -->
+        <section id="photos" class="section-container">
+            <div class="container">
+                <div class="sixteen columns" id="gallery">
+                    <h3 style="margin-bottom: 10px;" data-i18n="section-photos-title">Photo Gallery</h3>              
+
+                    <div class="gallery">
+                            @foreach ($images as $i=>$image)
+                                    <a href="/img/photogallery/2016/{{ basename($image) }}" class="noborder"><img src="/img/photogallery/2016/thumb/{{ basename($image) }}" alt="nahlad" class="thumb" /></a>
+                            @endforeach
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- MODULE : MENTORS -->
         <section id="mentors" class="section-container">
@@ -636,23 +703,25 @@
                         <p>Winners will be awarded in the categories: <strong>Best Prototype</strong>, <strong>Most Original Concept</strong> and <strong>Best Presentation</strong></p>
                     </div>
                     <div class="one-third column statistic" data-i18n="[html]section-awards-column1">
+                        <div class="statistic-icon"><i class="icon-pricetags"></i></div>
+                        <div class="statistic-desc">
+                            <h3>Gadgets</h3>
+                            <p>Audio Technica headphones, Bluetooth speakers, Leap Motion, 2 TB Harddisk, Arduino Starter Kit</p>
+                            <p>Supported by <a href="http://www.eea.sk" target="_blank">EEA Communication Solutions</a></p>
+                        </div>
+                    </div>
+                    <div class="one-third column statistic" data-i18n="[html]section-awards-column2">
                         <div class="statistic-icon"><i class="icon-picture"></i></div>
                         <div class="statistic-desc">
                             <h3>Printed reproductions</h3>
                             <p>High quality in house prints from SNG</p>
                         </div>
                     </div>
-                    <div class="one-third column statistic" data-i18n="[html]section-awards-column2">
+                    <div class="one-third column statistic" data-i18n="[html]section-awards-column3">
                         <div class="statistic-icon"><i class="icon-notebook"></i></div>
                         <div class="statistic-desc">
                             <h3>Publications &amp; merchandise</h3>
                             <p>From SNG &amp; Nasjonalmuseet</p>
-                        </div>
-                    </div>
-                    <div class="one-third column statistic" data-i18n="[html]section-awards-column3">
-                        <div class="statistic-icon"><i class="icon-pricetags"></i></div>
-                        <div class="statistic-desc">
-                            <h3>and more...</h3>
                         </div>
                     </div>
                 </div>
@@ -759,23 +828,6 @@
             $('body').css('overflow', 'auto');
             $('.preloader').delay(1000).fadeOut('slow');
         });
-    </script>
-
-    <!-- countdown -->
-    <script type="text/javascript" src="js/jquery.lwtCountdown-1.0.js"></script>
-    <script type="text/javascript">
-            jQuery(document).ready(function() {
-                $('#countdown_dashboard').countDown({
-                    targetDate: {
-                        'day':      7,
-                        'month':    10,
-                        'year':     2016,
-                        'hour':     17,
-                        'min':      0,
-                        'sec':      0
-                    }
-                });
-            });
     </script>
 
     <!-- One page Nav -->
