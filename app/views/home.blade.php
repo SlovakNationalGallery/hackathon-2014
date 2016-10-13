@@ -189,7 +189,7 @@
         <section id="showcase" class="section-container">
             <div class="container">
                 <div class="sixteen columns " id="projects">
-                    <h2>Project Showcase</h2>
+                    <h3>Project Showcase</h3>
                     <p>You can find more information and supporting material at <a href="https://hackdash.org/dashboards/artdata" class="" target="_blank">hackdash.org/dashboards/artdata</a>.</p>
                 </div>
                 <div class="eight columns topic-container">
