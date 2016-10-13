@@ -169,7 +169,7 @@
                 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/najdi-tvorcu.png" alt="topic"/>
+                        <img src="img/projects/2014/najdi-tvorcu.png" alt="topic"/>
                     </div>
                     <span class="topic-title">Nájdi môjho tvorcu!</span>
                     <p>Nástroj na pridávanie diel SNG do Wikipédie<br>
@@ -180,7 +180,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/sng-ing.png" alt="topic"/>
+                        <img src="img/projects/2014/sng-ing.png" alt="topic"/>
                     </div>
                     <span class="topic-title">SNG.ING</span>
                     <p>Interactive application working with MetaData<br>
@@ -189,7 +189,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/nestex.png" alt="topic"/>
+                        <img src="img/projects/2014/nestex.png" alt="topic"/>
                     </div>
                     <span class="topic-title">nestex WiFiTour</span>
                     <p>WiFi hotspot s audio sprievodcom<br>
@@ -198,7 +198,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/beacon.png" alt="topic"/>
+                        <img src="img/projects/2014/beacon.png" alt="topic"/>
                     </div>
                     <span class="topic-title">Beacon SNG (<span class="highlight">víťazný projekt</span>)</span>
                     <p>Bring exhibition to life with use of iBeacons<br><a href="https://github.com/samuellaska/SNG_beacon" target="_blank">github</a> | 
@@ -207,7 +207,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/fulla.png" alt="topic"/>
+                        <img src="img/projects/2014/fulla.png" alt="topic"/>
                     </div>
                     <span class="topic-title">Geometric Toy - Fulla (<span class="highlight">víťazný projekt</span>)</span>
                     <p>Promote slovak art via online interactive toy<br>
@@ -217,7 +217,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/sngram.png" alt="topic"/>
+                        <img src="img/projects/2014/sngram.png" alt="topic"/>
                     </div>
                     <span class="topic-title">SNGram (<span class="highlight">víťazný projekt</span>)</span>
                     <p>Let's see the connections between slovak painters by analysing<br>
@@ -226,7 +226,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/virtual-gallery.png" alt="topic"/>
+                        <img src="img/projects/2014/virtual-gallery.png" alt="topic"/>
                     </div>
                     <span class="topic-title">Virtual gallery</span>
                     <p>Immersive artworks viewer in virtual space<br>
@@ -236,7 +236,7 @@
 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/art-rift.png" alt="topic"/>
+                        <img src="img/projects/2014/oculus-rift.png" alt="topic"/>
                     </div>
                     <span class="topic-title">Art Rift</span>
                     <p>Setup your own collections of arts in virtual space for Oculus<br>
@@ -250,7 +250,7 @@
                 
                 <div class="eight columns topic-container">
                     <div class="topic-icon">
-                        <img src="img/projekty/artmix.png" alt="topic"/>
+                        <img src="img/projects/2014/sng.svg" alt="topic"/>
                     </div>
                     <span class="topic-title">Artmix</span>
                     <p>Aproximates two images using histograms<br>

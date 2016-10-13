@@ -209,6 +209,84 @@
         </section>
         <!-- MODULE : ABOUT --> 
 
+        <!-- MODULE : SHOWCASE -->
+        <section id="showcase" class="section-container">
+            <div class="container">
+                <div class="sixteen columns " id="projects">
+                    <h2>Project Showcase</h2>
+                    <p>You can find more information and supporting material at <a href="https://hackdash.org/dashboards/artdata" class="" target="_blank">hackdash.org/dashboards/artdata</a>.</p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/klima.jpg" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Klima</span>
+                    <p>A mobile weather app that aims to be useful, be relatable and get people into galleries.
+                        <br>
+                        Winner: <span class="highlight">Best Prototype</span>
+                        <br>
+                        <a href="https://hackdash.org/projects/57f8ea15d9284f016c047578" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/vampart.png" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Vampart</span>
+                    <p>Ever wondered how likely you are to be a vampire? Now you can find out by tracing your face through art history.
+                        <br>
+                        Winner: <span class="highlight">Best Presentation</span>, <span class="highlight">Most Original Concept</span>
+                        <br>
+                        <a href="https://hackdash.org/projects/57f91de3d9284f016c047583" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/the-mirror.png" alt="topic"/>
+                    </div>
+                    <span class="topic-title">The-mirror</span>
+                    <p>Imagine you are walking in the gallery and one of the paintings starts to mirror your face and movements in its original art style.
+                        <br>
+                        Winner: <span class="highlight">Most Original Concept</span>
+                        <br>
+                        <a href="https://hackdash.org/projects/57f8dd4bd9284f016c047575" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/art-flies.jpg" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Art Flies</span>
+                    <p>An immersive art experience that places users in a magical land of virtual reality where art can be explored more closely.
+                        <br>
+                        <a href="https://hackdash.org/projects/57f91b6cd9284f016c047581" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/composition-analyzer.png" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Composition-analyzer</span>
+                    <p>Generate your poster composition based on the experience of the old Masters.
+                        <br>
+                        <a href="https://hackdash.org/projects/57f91b6cd9284f016c047581" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+                <div class="eight columns topic-container">
+                    <div class="topic-icon">
+                        <img src="img/projects/2016/photobooth.jpg" alt="topic"/>
+                    </div>
+                    <span class="topic-title">Photobooth</span>
+                    <p>An interactive Photobooth installation, inspired by Artistic Style transfer algorithms.
+                        <br>
+                        <a href="https://hackdash.org/projects/57fcee5ed9284f016c0475a0" target="_blank">more info &rarr;</a>
+                    </p>
+                </div>
+
+            </div>
+        </section>
+        <!-- MODULE : SHOWCASE --> 
+
         <!-- MODULE : MENTORS -->
         <section id="mentors" class="section-container">
             <div class="container">
