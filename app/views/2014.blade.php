@@ -267,7 +267,7 @@
 
                     <div class="gallery">
                             @foreach ($images as $i=>$image)
-                                    <a href="/img/fotogaleria/{{ basename($image) }}" class="noborder"><img src="/img/fotogaleria/thumb/{{ basename($image) }}" alt="nahlad" class="thumb" /></a>
+                                    <a href="/img/photogallery/2014/{{ basename($image) }}" class="noborder"><img src="/img/photogallery/2014/thumb/{{ basename($image) }}" alt="nahlad" class="thumb" /></a>
                             @endforeach
                     </div>
                 </div>

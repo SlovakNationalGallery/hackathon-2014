@@ -61,6 +61,7 @@
     <!-- Icons css -->  
     <link rel="stylesheet" href="css/icomoon.css">
     <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css" />
 
     <!-- ========= 
     JS
@@ -283,9 +284,19 @@
                     </p>
                 </div>
 
+                <div class="sixteen columns" id="gallery">
+                    <h3 style="margin-bottom: 10px;">Photo Gallery</h3>              
+
+                    <div class="gallery">
+                            @foreach ($images as $i=>$image)
+                                    <a href="/img/photogallery/2016/{{ basename($image) }}" class="noborder"><img src="/img/photogallery/2016/thumb/{{ basename($image) }}" alt="nahlad" class="thumb" /></a>
+                            @endforeach
+                    </div>
+                </div>
+
             </div>
         </section>
-        <!-- MODULE : SHOWCASE --> 
+        <!-- MODULE : SHOWCASE -->
 
         <!-- MODULE : MENTORS -->
         <section id="mentors" class="section-container">

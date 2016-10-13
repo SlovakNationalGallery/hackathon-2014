@@ -13,18 +13,17 @@
 
 Route::get('/', function()
 {
-	return View::make('home', ['images'=>getImages()]);
+	return View::make('home', ['images'=>getImages('/img/photogallery/2016/')]);
 });
 
 Route::get('/2014', function()
 {
-	return View::make('2014', ['images'=>getImages()]);
+	return View::make('2014', ['images'=>getImages('/img/photogallery/2014/')]);
 });
 
 
-function getImages()
+function getImages($intro_images_path)
 {
-	$intro_images_path = '/img/fotogaleria/';
 	$folder = public_path().$intro_images_path;
 	$filetype = '{*.jpeg,*.JPG,*.jpg,*.png}';
 	$files = glob($folder.$filetype, GLOB_BRACE);
