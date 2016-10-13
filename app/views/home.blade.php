@@ -122,10 +122,11 @@
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
                             <li><a href="#about">About</a></li>
+                            <li><a href="#showcase">Projects</a></li>
+                            <li><a href="#photos">Photos</a></li>
                             <li><a href="#mentors">Mentors</a></li>
                             <li><a href="#schedule">Programme</a></li>
                             <li><a href="#awards">Awards</a></li>
-                            <li><a href="#practical">Practical info</a></li>
                             <li><a href="#previous">Previous edition</a></li>
                             <li><a href="#partners">Partners</a></li>
                         </ul>   
@@ -257,7 +258,13 @@
                         <a href="https://hackdash.org/projects/57fcee5ed9284f016c0475a0" target="_blank">more info &rarr;</a>
                     </p>
                 </div>
+            </div>
+        </section>
+        <!-- MODULE : SHOWCASE -->
 
+        <!-- MODULE : PHOTOS -->
+        <section id="photos" class="section-container">
+            <div class="container">
                 <div class="sixteen columns" id="gallery">
                     <h3 style="margin-bottom: 10px;">Photo Gallery</h3>              
 
@@ -267,10 +274,8 @@
                             @endforeach
                     </div>
                 </div>
-
             </div>
         </section>
-        <!-- MODULE : SHOWCASE -->
 
         <!-- MODULE : MENTORS -->
         <section id="mentors" class="section-container">
