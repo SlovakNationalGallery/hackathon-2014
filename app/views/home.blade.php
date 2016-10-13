@@ -685,6 +685,7 @@
                         <div class="statistic-desc">
                             <h3>Gadgets</h3>
                             <p>Audio Technica headphones, Bluetooth speakers, Leap Motion, 2 TB Harddisk, Arduino Starter Kit</p>
+                            <p>Supported by <a href="http://www.eea.sk" target="_blank">EEA Communication Solutions</a></p>
                         </div>
                     </div>
                     <div class="one-third column statistic">
