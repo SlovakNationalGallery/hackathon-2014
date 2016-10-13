@@ -155,33 +155,7 @@
                             <p class="white">ART &amp; DATA</p>
                         </div>
                         <!-- HOMEPAGE - bigtext -->
-                        <!-- HOMEPAGE - widget -->
-                        <div id="homepage-widget">
-                            <div id="event-widget">
-                                <div id="countdown">
-                                    <div id="countdown_dashboard">
-                                        <div class="dash days_dash">
-                                            <span class="dash-title">days</span>
-                                            <div class="digit digit-margin">0</div>
-                                            <div class="digit">0</div>
-                                        </div>
-                            
-                                        <div class="dash hours_dash">
-                                            <span class="dash-title">hours</span>
-                                            <div class="digit digit-margin">0</div>
-                                            <div class="digit">0</div>
-                                        </div>
-                            
-                                        <div class="dash minutes_dash">
-                                            <span class="dash-title">minutes</span>
-                                            <div class="digit digit-margin">0</div>
-                                            <div class="digit">0</div>
-                                        </div>
-                                    </div>
-                                </div> 
-                            </div>
-                        </div>
-                        <!-- HOMEPAGE - widget -->
+                        <br>
                         <!-- HOMEPAGE - share -->
                         <div class="shareon-container">
                             <div class="fb-like" data-href="http://hackathon.sng.sk/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
