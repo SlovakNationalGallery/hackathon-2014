@@ -200,11 +200,10 @@
         <section id="about" class="section-container">
             <div class="container">
                 <div id="invitation" class="sixteen columns">
-                    <h2>You are invited!</h2>
-                    <p class="lead">Art is no longer confined by the limits of galleries or established formats. Technology can help us breathe life into collections, open them up to the public and share art across the world. We invite you to create something innovative using art, code and inspiration in just 24 hours during the Art Data Hackathon.</p>
-                    <p class="lead">Slovak National Gallery and Nasjonalmuseet Norway will provide data, mentors and media to work with, as well as ample drinks and snacks to support you on your creative journey. Whether you are a web developer, graphic designer, UI/UX specialist, game programmer, filmmaker or sound artist, we will make sure your skills are matched by like-minded creatives.</p>
-                    <p class="lead">The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
-                    <a href="https://labsng.typeform.com/to/btGeOi" class="button-signup disabled" target="_blank">Registrations is closed</a>
+                    <h2>Thank you!</h2>
+                    <p class="lead">We did it! We got together with an amazing group of graphic designers, software artisans, UX specialists, back-end engineers, game designers, iOS developers and VR researchers to comine Data, Art and Technology. 6 teams worked tirelessly for 24 hours, blending custom software and design with data and content from the Slovak National Gallery and the Norwegian Nasjonal Museet. Scroll on to check out the winning teams and see all the results of the hackathon below.</p>
+                    <p class="lead">Thank you to all the participants, mentors and co-organisers for making the event a success!</p>
+                    <p>The event is part of "Art, collections and data across borders" project, supported by Norway, Iceland and Lichtenstein in the framework of the EEA Financial Mechanism and the state budget of the Slovak Republic.</p>
                 </div>
             </div>
         </section>
