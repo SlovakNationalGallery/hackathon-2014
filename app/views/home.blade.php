@@ -802,23 +802,6 @@
         });
     </script>
 
-    <!-- countdown -->
-    <script type="text/javascript" src="js/jquery.lwtCountdown-1.0.js"></script>
-    <script type="text/javascript">
-            jQuery(document).ready(function() {
-                $('#countdown_dashboard').countDown({
-                    targetDate: {
-                        'day':      7,
-                        'month':    10,
-                        'year':     2016,
-                        'hour':     17,
-                        'min':      0,
-                        'sec':      0
-                    }
-                });
-            });
-    </script>
-
     <!-- One page Nav -->
     <script src="js/jquery.scrollTo.js"></script>
     <script src="js/jquery.nav.js"></script>
