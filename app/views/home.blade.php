@@ -691,6 +691,13 @@
                         <p>Winners will be awarded in the categories: <strong>Best Prototype</strong>, <strong>Most Original Concept</strong> and <strong>Best Presentation</strong></p>
                     </div>
                     <div class="one-third column statistic">
+                        <div class="statistic-icon"><i class="icon-pricetags"></i></div>
+                        <div class="statistic-desc">
+                            <h3>Gadgets</h3>
+                            <p>Audio Technica headphones, Bluetooth speakers, Leap Motion, 2 TB Harddisk, Arduino Starter Kit</p>
+                        </div>
+                    </div>
+                    <div class="one-third column statistic">
                         <div class="statistic-icon"><i class="icon-picture"></i></div>
                         <div class="statistic-desc">
                         <h3>Printed reproductions</h3>
@@ -702,13 +709,6 @@
                         <div class="statistic-desc">
                             <h3>Publications &amp; merchandise</h3>
                             <p>From SNG &amp; Nasjonalmuseet</p>
-                        </div>
-                    </div>
-                    <div class="one-third column statistic">
-                        <div class="statistic-icon"><i class="icon-pricetags"></i></div>
-                        <div class="statistic-desc">
-                        <h3>and more...</h3>
-                        <p></p>
                         </div>
                     </div>
                 </div>
