@@ -117,7 +117,7 @@
                 <div class="container">
                     <div class="sixteen columns">
                         <!-- NAVIGATION - Sign up -->   
-                        <div class="signup"><a href="https://labsng.typeform.com/to/btGeOi" class="button-signup disabled" target="_blank">Registration is closed</a></div>
+                        <div class="signup"><a href="https://hackdash.org/dashboards/artdata" class="button-signup" target="_blank">See Projects on HackDash</a></div>
                         <!-- NAVIGATION - list -->  
                         <ul id="onepagenav">
                             <li><a href="#homepage"><img src="img/loader.svg" style="max-height: 30px; width: auto;vertical-align: middle; "></a></li>
