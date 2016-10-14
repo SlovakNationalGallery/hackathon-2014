@@ -245,7 +245,7 @@
                     <span class="topic-title">Composition-analyzer</span>
                     <p>Generate your poster composition based on the experience of the old Masters.
                         <br>
-                        <a href="https://hackdash.org/projects/57f91b6cd9284f016c047581" target="_blank">more info &rarr;</a>
+                        <a href="https://hackdash.org/projects/57f8dbdfd9284f016c047574" target="_blank">more info &rarr;</a>
                     </p>
                 </div>
                 <div class="eight columns topic-container">
